@@ -1,12 +1,12 @@
 No. A[INSERT SHARE ID]
 
-\
+  
 
-CERTIFICATE OF CLASS A UNITS\
-IN\
+CERTIFICATE OF CLASS A UNITS  
+IN  
 DATASCOPE ANALYTICS LLC
 
-\
+  
 
 This Certificate of Class A Units certifies that **[INSERT MEMBER
 NAME]** is the owner of **[INSERT NUMBER OF UNITS] Class A Units** of
@@ -29,20 +29,20 @@ properly endorsed, to the Company.
 
 Dated this 1st day of January, 2012.
 
-\
+  
 
 By:
 
-\
+  
 
-\
+  
 
 [INSERT MANAGER NAME], Manager
 
 By:
 
-\
+  
 
-\
+  
 
 [INSERT MANAGER NAME], Manager

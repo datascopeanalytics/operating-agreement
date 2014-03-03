@@ -277,7 +277,7 @@ and all amendments thereto and restatements thereof filed on behalf of
 the Company with the office of the Secretary of State of the State of
 Illinois pursuant to the Illinois Act.
 
-"Assignee" means any Person who is an assignee of a Member’s interest in
+"Assignee" means any Person who is an assignee of a Member's interest in
 the Company, or part thereof, and who does not become a Member pursuant
 to Section 14.1.
 
@@ -349,7 +349,7 @@ duties for the Company and such disease or disability is expected to
 continue to render the Member incapable of performing such tasks for a
 continuous period of ninety (90) days or one hundred eighty (180) days
 in any one (1) year period.  Of the three Illinois licensed physicians,
-one shall be the Member’s personal physician, one shall be a physician
+one shall be the Member's personal physician, one shall be a physician
 employed by and selected by the Company, and one shall be selected by
 the mutual agreement of the other two physicians.
 
@@ -361,7 +361,7 @@ which the Company is required to allocate Profits, Losses and other
 items of Company income, gain, loss or deduction pursuant to Article
 VII.
 
-"Gross Asset Value" means, with respect to any asset, such asset’s
+"Gross Asset Value" means, with respect to any asset, such asset's
 adjusted basis for federal income tax purposes, except as follows:
 
 ​(i) the initial Gross Asset Value of any asset contributed by a Member
@@ -441,7 +441,7 @@ reduction of reserves previously established.
 company, or other legal entity or organization.
 
 "Profits" and "Losses" means, for each Fiscal Year, an amount equal to
-the Company’s taxable income or loss for such Fiscal Year, determined in
+the Company's taxable income or loss for such Fiscal Year, determined in
 accordance with § 703(a) of the Code (but including in taxable income or
 loss, for this purpose, all items of income, gain, loss or deduction
 required to be stated separately pursuant to § 703(a)(1) of the Code),
@@ -498,17 +498,17 @@ succeeding regulations).
 "Unanimous Vote" means the unanimous written approval of, or the
 unanimous affirmative vote by, all of the Members.
 
-"Unit" means a share of the Company’s Profits and Losses and right to
-receive distributions of the Company’s assets and, unless held by a
+"Unit" means a share of the Company's Profits and Losses and right to
+receive distributions of the Company's assets and, unless held by a
 Member, shall not include the right to vote on, consent to or otherwise
 participate in any decision or action of or by the Members, or any right
-to information, to an accounting of the Company’s affairs or to inspect
-the Company’s books and records; provided, that any class or series of
+to information, to an accounting of the Company's affairs or to inspect
+the Company's books and records; provided, that any class or series of
 Units issued shall have the relative rights, powers, duties, and
 obligations specified with respect to such class or group of Units in
 this Agreement, and the interest of such class or series of Units in the
-Company’s Profits and Losses and right to receive distributions of the
-Company’s assets shall be determined in accordance with such relative
+Company's Profits and Losses and right to receive distributions of the
+Company's assets shall be determined in accordance with such relative
 rights, powers, duties, and obligations.
 
 "Unit Holder" means any Person who holds one or more Units, regardless
@@ -517,8 +517,8 @@ were initially acquired by such Person from the Company or by assignment
 from another Unit Holder.  Unless admitted as a Member, a Unit Holder
 shall not have the right to vote on, consent to or otherwise participate
 in any decision or action of or by the Members, or any right to
-information, to an accounting of the Company’s affairs or to inspect the
-Company’s books and records.
+information, to an accounting of the Company's affairs or to inspect the
+Company's books and records.
 
 Section 1.2  Headings  TC "Section 1.2  Headings" \\f C \\l "2" .  The
 headings and subheadings in this Agreement are included for convenience
@@ -557,7 +557,7 @@ and shall continue indefinitely or until dissolved in accordance with
 the provisions of this Agreement.
 
 Section 2.4 Registered Agent and Office  TC "Section 2.4  Registered
-Agent and Office" \\f C \\l "2" .  The Company’s registered agent and
+Agent and Office" \\f C \\l "2" .  The Company's registered agent and
 office in Illinois shall be Business Filings Incorporated, 600 South
 Second Street, Suite 103, Springfield, Illinois 62704.  At any time, the
 Manager may designate another registered agent and/or registered office.
@@ -566,7 +566,7 @@ Section 2.5  Principal Place of Business  TC "Section 2.5  Principal
 Place of Business" \\f C \\l "2" .  The principal place of business of
 the Company shall initially be 180 W Adams, Suite 801, Chicago, Illinois
 60657.  Upon ten days notice to the Members, the Manager may change the
-location of the Company’s principal place of business, provided that
+location of the Company's principal place of business, provided that
 such change has no material adverse effect upon any Member.
 
 Section 2.6  Qualification in Other Jurisdictions  TC "Section 2.6 
@@ -661,7 +661,7 @@ be exercised or done by the Manager.
 Section 3.4  Reimbursements  TC "Section 3.4  Reimbursements" \\f C \\l
 "2" .  The Company shall reimburse the Members for all ordinary and
 necessary out-of-pocket expenses incurred by the Members on behalf of
-the Company.  The Manager’s sole determination of which expenses may be
+the Company.  The Manager's sole determination of which expenses may be
 reimbursed to a Member and the amount of such expenses shall be
 conclusive.  Such reimbursement shall be treated as an expense of the
 Company that shall be deducted in computing the Net Cash Flow and shall
@@ -670,7 +670,7 @@ distribution or return of capital to any Member.
 
 Section 3.5  Partition  TC "Section 3.5  Partition" \\f C \\l "2" . 
 Each Member waives, until termination of the Company, any and all rights
-that it may have to maintain an action for partition of the Company’s
+that it may have to maintain an action for partition of the Company's
 property.
 
 Section 3.6  Withdrawal  TC "Section 3.6  Withdrawal" \\f C \\l "2" .  A
@@ -690,7 +690,7 @@ any Member will terminate the membership of that Member in the Company:
 
 ​(c) The divorce of any Member, if in connection with any divorce
 proceedings any court orders the Member to transfer all or a portion of
-such Member’s Units to such Member’s spouse or otherwise;
+such Member's Units to such Member's spouse or otherwise;
 
 ​(d) Any other involuntary Transfer or Transfer by operation of law of
 all or a portion of the Member's Units or any circumstances where such
@@ -700,7 +700,7 @@ Transfer is reasonably foreseeable;
 
 ​(g) The dissolution of the Member;
 
-​(h) The termination of the Member’s employment with the Company for any
+​(h) The termination of the Member's employment with the Company for any
 reason other than Cause;
 
 ​(i) The withdrawal of the Member in compliance with Section 3.6; and
@@ -725,7 +725,7 @@ breach from two (2) or more Members.
 Section 3.8  Effects of Termination of Membership  TC "Section 3.8 
 Effects of Termination of Membership" \\f C \\l "2" .  
 
-​(i) If a Member’s membership is terminated under Section 3.7(i) (the
+​(i) If a Member's membership is terminated under Section 3.7(i) (the
 "Terminated Member"), the Manager shall provide written notice to the
 other Members on a date (the "Notice Date") that is not later than
 thirty (30) days following the date that the Manager first learned of
@@ -740,7 +740,7 @@ giving all of the other Members written notice not later than thirty
 (30) calendar days after the Notice Date.  Any Member exercising such
 option shall purchase its pro rata portion of the Terminated Units (on a
 class by class and series by series basis); provided, that if any Member
-wants to purchase less than such Member’s full pro-rata portion of the
+wants to purchase less than such Member's full pro-rata portion of the
 Terminated Units (a "Non-Participating Member"), such Non-Participating
 Member shall give written notice thereof to the other Members not later
 than fifteen (15) calendar days after the Notice Date.  In such case,
@@ -768,7 +768,7 @@ liquidation available for distribution after taking into effect the
 distributions to creditors under Section 15.4(i) were equal to the fair
 market value of the Company determined as of the Notice Date in
 accordance with the valuation methodology set forth on **Schedule B**;
-provided, that if a Member’s membership is terminated under Section
+provided, that if a Member's membership is terminated under Section
 3.7(i)(j) on account of the expulsion of the Member in accordance with
 Section 3.7(ii), the purchase price of any Terminated Units otherwise
 determined in accordance with this Section 3.8(i)(b)****shall be reduced
@@ -780,18 +780,18 @@ Section 3.8(i)(a)) following the Notice Date at a closing to be held
 during normal business hours at the Company's principal business office,
 or at any other place to which the parties agree.  At the closing, (1)
 the Terminated Member or, where applicable, the executor, administrator,
-personal representative, or trustee of the Terminated Member’s estate,
+personal representative, or trustee of the Terminated Member's estate,
 shall execute and deliver to the purchasing Members or Company any and
 all documents and instruments necessary to effect the transfer of the
 Terminated Units to such Members or Company, (2) the purchasing Members
 or Company will pay to the Terminated Member or, where applicable, the
 executor, administrator, personal representative, or trustee of the
-Terminated Member’s estate, the purchase price for the Terminated Units
+Terminated Member's estate, the purchase price for the Terminated Units
 determined under Section 3.8(i)(b) in cash, and (3) the Company will
 change its books to indicate the change in ownership of the Terminated
 Units.  If the Terminated Member or, where applicable, the executor,
 administrator, personal representative, or trustee of the Terminated
-Member’s estate, is not present at the closing, the purchasing Members
+Member's estate, is not present at the closing, the purchasing Members
 or Company shall deposit the purchase price with any state or federally
 chartered bank in Illinois, as escrow agent, to be paid to the
 Terminated Member as soon as is reasonably practicable, less an
@@ -803,7 +803,7 @@ transfer of the Terminated Units under this Agreement.
 
 ​(ii) If a Member withdraws in violation of Section 3.6 or is expelled
 from the Company under Section 3.7(ii), the Company may recover damages
-from the Member and may offset the Company’s damages against any amount
+from the Member and may offset the Company's damages against any amount
 owed to the Member for distributions or otherwise.  
 
 **ARTICLE IV  
@@ -825,8 +825,8 @@ the Members.
 
 Section 4.2  Units  TC "Section 4.2  Units" \\f C \\l "2" .  
 
-A Unit Holder’s economic interest in the Company shall be represented by
-the "Unit" or "Units" held by such Unit Holder.  Each Unit Holder’s
+A Unit Holder's economic interest in the Company shall be represented by
+the "Unit" or "Units" held by such Unit Holder.  Each Unit Holder's
 respective Units shall be set forth on **Schedule A** attached hereto. 
 Each Unit Holder hereby agrees that its interest in the Company and in
 its Units shall for all purposes be personal property.  A Unit Holder
@@ -853,7 +853,7 @@ Units, and therefore such Class B Units shall be treated for tax
 purposes as profit interests and not as capital interests, as those
 terms are defined in Rev. Proc. 93-27, 1993-2 C.B. 343.  The Manager
 shall, however, have the authority to establish any Company Value at
-Issuance, and the Manager’s determination of the Company Value at
+Issuance, and the Manager's determination of the Company Value at
 Issuance shall be final, binding and conclusive on all Members.  The
 Company Value at Issuance and the date of issuance / series designation
 of the Class B Units issued to any Member shall be as set forth on the
@@ -863,11 +863,11 @@ Section 4.3  Status of Capital Contributions  TC "Section 4.3  Status of
 Capital Contributions" \\f C \\l "2" .
 
 ​(i) Except as otherwise provided in this Agreement, the amount of a
-Unit Holder’s Capital Contributions may be returned to it, in whole or
+Unit Holder's Capital Contributions may be returned to it, in whole or
 in part, at any time, but only with the consent of all Members.  Any
 such returns of Capital Contributions shall be made to all Unit Holders
 in proportion to the number of Units then held by each Unit Holder. 
-Notwithstanding the foregoing, no return of a Unit Holder’s Capital
+Notwithstanding the foregoing, no return of a Unit Holder's Capital
 Contributions shall be made hereunder if such distribution would violate
 applicable state law.  Under circumstances requiring a return of any
 Capital Contribution, no Unit Holder shall have the right to demand or
@@ -879,13 +879,13 @@ respect to its Capital Contributions or its Capital Account or for
 services rendered on behalf of the Company or otherwise in its capacity
 as a Unit Holder, except as otherwise specifically provided in this
 Agreement and except for any compensation and benefits provided to any
-Unit Holder in such Unit Holder’s capacity as an employee of the
+Unit Holder in such Unit Holder's capacity as an employee of the
 Company.
 
 ​(iii) Except as otherwise provided herein and by applicable state law,
 the Members shall be liable only to make their capital contributions
 pursuant to Section 4.1, and no Member or Assignee shall be required to
-lend any funds to the Company or, after a Member’s Capital Contributions
+lend any funds to the Company or, after a Member's Capital Contributions
 have been fully paid pursuant to Section 4.1, to make any additional
 capital contributions to the Company.  No Unit Holder shall have any
 personal liability for the repayment of any Capital Contribution of any
@@ -901,7 +901,7 @@ assignment in accordance with the terms of this Agreement shall be in
 the same amount as, and shall replace, the Capital Account of the
 assignor of such interest, and, for purposes of this Agreement, such
 Unit Holder shall be deemed to have made the Capital Contributions made
-by the assignor of such interest (or made by such assignor’s predecessor
+by the assignor of such interest (or made by such assignor's predecessor
 in interest).  To the extent such Unit Holder acquires less than the
 entire interest in the Company of the assignor of the interest so
 acquired by such Unit Holder, the original Capital Account of such Unit
@@ -914,16 +914,16 @@ retains.
 ​(ii) The Capital Account of each Unit Holder shall be maintained in
 accordance with the following provisions:
 
-​(a) to such Unit Holder’s Capital Account there shall be credited such
-Unit Holder’s Capital Contributions, such Unit Holder’s distributive
+​(a) to such Unit Holder's Capital Account there shall be credited such
+Unit Holder's Capital Contributions, such Unit Holder's distributive
 share of Profits and the amount of any Company liabilities that are
 assumed by such Unit Holder or that are secured by any Company assets
 distributed to such Unit Holder;
 
-​(b) to such Unit Holder’s Capital Account there shall be debited the
+​(b) to such Unit Holder's Capital Account there shall be debited the
 amount of cash and the Gross Asset Value of any Company assets
 distributed to such Unit Holder pursuant to any provision of this
-Agreement, such Unit Holder’s distributive share of Losses and the
+Agreement, such Unit Holder's distributive share of Losses and the
 amount of any liabilities of such Unit Holder that are assumed by the
 Company or that are secured by any property contributed by such Unit
 Holder to the Company; and
@@ -956,11 +956,11 @@ capital or property of the Company, other than as a creditor.
  MANAGERS ** TC "Article V.  Managers" \\f C \\l "1" 
 
 Section 5.1  Designation of Manager  TC "Section 5.1  Designation of
-Manager" \\f C \\l "2" .  The management of the Company’s business shall
+Manager" \\f C \\l "2" .  The management of the Company's business shall
 be vested in one or more Managers designated by the Members.  At any
 time there is more than one Manager, any determination, decision or
 action required or permitted to be made hereunder by the Manager
-concerning the conduct of the Company’s business shall be made by a vote
+concerning the conduct of the Company's business shall be made by a vote
 of the majority of the Managers.  A Manager (i) may be but need not be a
 Member or a natural person, (ii) shall be designated, appointed,
 elected, removed or replaced by a Super Majority Vote, (iii) shall
@@ -976,8 +976,8 @@ Agreement.
 Section 5.2  Manager as Agent; General Powers  TC "Section 5.2  Manager
 as Agent" \\f C \\l "2" .  The Manager, subject to the limitations of
 its powers set forth in this Agreement, is an agent of the Company for
-the purpose of the Company’s business and shall have all rights and
-powers required or appropriate to the management of the Company’s
+the purpose of the Company's business and shall have all rights and
+powers required or appropriate to the management of the Company's
 business, and the actions of the Manager taken in accordance with such
 powers shall bind the Company. The Manager shall have the power, on
 behalf of the Company, to do all things necessary or convenient to carry
@@ -1058,7 +1058,7 @@ Manager.
 
 Section 5.6  Resignation of Manager  TC "Section 5.6  Resignation of
 Manager" \\f C \\l "2" .  A Manager may resign from his position as a
-Manager at any time upon not less than 30 days’ prior written notice to
+Manager at any time upon not less than 30 days' prior written notice to
 all of the Members.
 
 Section 5.7  Officers  TC "Section 5.7  Officers" \\f C \\l "2" .  The
@@ -1184,7 +1184,7 @@ thereunder, shall be made by the Manager in any manner that reasonably
 reflects the purpose and intention of this Agreement.  Allocations
 pursuant to this Section 7.3 are solely for purposes of federal, state
 and local taxes and shall not affect, or in any way be taken into
-account in computing, any Unit Holder’s Capital Account or share of
+account in computing, any Unit Holder's Capital Account or share of
 Profits, Losses, other items or distributions pursuant to any provision
 of this Agreement.
 
@@ -1246,13 +1246,13 @@ appropriate under the Code and Treasury Regulations.
 Section 9.2  Supervision; Inspection of Books  TC "Section 9.2 
 Supervision; Inspection of Books" \\f C \\l "2" .** **Proper and
 complete books of account and records of the business of the Company
-shall be kept under the supervision of the Manager at the Company’s
+shall be kept under the supervision of the Manager at the Company's
 principal office and at such other place as designated by the Manager. 
 The Manager shall give notice to each Member of any changes in the
 location of such books and records.  Such books and records shall be
 open to inspection, audit and copying by any Member, or his designated
 representative, upon reasonable notice at any time during business hours
-for any purpose reasonably related to the Member’s interest in the
+for any purpose reasonably related to the Member's interest in the
 Company.  Any information so obtained or copied shall be kept and
 maintained in strictest confidence except as required by law.
 
@@ -1263,7 +1263,7 @@ books of account of the Company and upon such information, opinions,
 reports or statements presented to the Company by its Manager, any of
 its Members, officers, employees or committees, or by any other person,
 as to matters the Manager reasonably believes are within such other
-person’s professional or expert competence and who has been selected
+person's professional or expert competence and who has been selected
 with reasonable care by or on behalf of the Company, including
 information, opinions, reports or statements as to the value and amount
 of the assets, liabilities, profits or losses of the Company or any
@@ -1280,7 +1280,7 @@ Section 9.5  Tax Returns  TC "Section 9.5  Tax Returns" \\f C \\l "2"
 .** **The Manager shall, as soon as practicable after the end of each
 Fiscal Year and on or prior to the applicable due date (including any
 applicable extensions), file a federal income tax information return and
-transmit to each Member a schedule showing such Member’s share of each
+transmit to each Member a schedule showing such Member's share of each
 item of Company income, gain, loss, deduction or credit for such Fiscal
 Year for income tax purposes, and all other information necessary for
 such Members timely to file their federal income tax returns.  The
@@ -1294,8 +1294,8 @@ regarding, all appropriate state and local income tax returns.
 Section 10.1  Tax Matters Member  TC "Section 10.1  Tax Matters Member"
 \\f C \\l "2" .
 
-​(i) [INSERT A LUCKY MEMBER’S NAME NERE] is hereby designated as the
-initial Tax Matters Member, who shall be the Company’s "Tax Matters
+​(i) [INSERT A LUCKY MEMBER'S NAME NERE] is hereby designated as the
+initial Tax Matters Member, who shall be the Company's "Tax Matters
 Partner" for purposes of § 6231 (a)(7) of the Code and shall have the
 power to manage and control, on behalf of the Company, any
 administrative proceeding at the Company level with the Internal Revenue
@@ -1354,7 +1354,7 @@ negligence or willful misconduct.
 upon the records of the Company and upon such information, opinions,
 reports or statements presented to the Company by any Person as to
 matters the Covered Person reasonably believes are within such other
-Person’s professional or expert competence and who has been selected
+Person's professional or expert competence and who has been selected
 with reasonable care by or on behalf of the Company, including
 information, opinions, reports or statements as to the value and amount
 of the assets, liabilities, Profits, Losses or Net Cash Flow or any
@@ -1365,20 +1365,20 @@ Section 11.3  Indemnification  TC "Section 11.3  Indemnification" \\f C
 \\l "2" .  To the fullest extent permitted by applicable law, a Covered
 Person shall be entitled to indemnification from the Company for any
 loss, damage or claim, including any judgment, award, settlement,
-reasonable attorney’s fees and other reasonable costs or expenses,
+reasonable attorney's fees and other reasonable costs or expenses,
 incurred by such Covered Person by reason of any act or omission
 performed or omitted, or alleged act or omission, by such Covered Person
 in good faith on behalf of the Company and in a manner reasonably
 believed to be within the scope of authority conferred on such Covered
 Person by this Agreement, except that no Covered Person shall be
 entitled to be indemnified in respect of any loss, damage or claim
-incurred by such Covered Person by reason of the Covered Person’s
+incurred by such Covered Person by reason of the Covered Person's
 failure to act in good faith, fraud, gross negligence or willful
 misconduct with respect to such acts or omissions; provided, however,
 the Company shall not be obligated to indemnify any such Covered Person
 (i) for proceedings, claims or actions initiated or brought voluntarily
 by such Covered Person and not by way of defense or (ii) for any amount
-paid in settlement without the Company’s prior written consent; and
+paid in settlement without the Company's prior written consent; and
 provided further, that any indemnity under this Section 11.3 shall be
 provided out of and to the extent of Company assets only, and no Covered
 Person shall have any personal liability on account thereof.
@@ -1435,7 +1435,7 @@ any such profits against any amount owed to the Member for distributions
 or otherwise.
 
 Each Member agrees that the covenants of this Section 12.2 are
-reasonable in scope and essential to the preservation of the Company’s
+reasonable in scope and essential to the preservation of the Company's
 business.
 
 Section 12.3  Confidentiality.  TC "Section 12.3  Confidentiality" \\f C
@@ -1472,7 +1472,7 @@ transmittal to that Member by the Company.
 Section 12.4  Acknowledgement; Remedies for Breach.  TC "Section 12.4 
 Remedies for Breach" \\f C \\l "2"   Each Member acknowledges and agrees
 that the covenants in Sections 12.2 and 12.3 are (i) reasonable in scope
-and essential to the preservation of the Company’s business and (ii)
+and essential to the preservation of the Company's business and (ii)
 ***in addition to***, and not in lieu of, any non-solicitation,
 confidentiality and/or non-competition obligations and other obligations
 that such Member may have, or any rights or remedies the Company may
@@ -1535,19 +1535,19 @@ named as a Member on **Schedule A** to this Agreement.
 
 Section 13.4  Allocations  TC "Section 13.4  Allocations" \\f C \\l "2"
 .  Additional Units shall not be entitled to any retroactive allocation
-of the Company’s income, gains, losses, deductions, credits or other
+of the Company's income, gains, losses, deductions, credits or other
 items; provided that, subject to the restrictions of § 706(d) of the
 Code, Additional Units shall be entitled to their respective share of
-the Company’s income, gains, losses, deductions, credits and other items
+the Company's income, gains, losses, deductions, credits and other items
 arising under contracts entered into before the effective date of the
 issuance of any Additional Units to the extent that such income, gains,
 losses, deductions, credits and other items arise after such effective
 date.  To the extent consistent with § 706(d) of the Code and Treasury
-Regulations promulgated thereunder, the Company’s books may be closed at
-the time Additional Units are issued (as though the Company’s tax year
+Regulations promulgated thereunder, the Company's books may be closed at
+the time Additional Units are issued (as though the Company's tax year
 had ended) or the Company may credit to the Additional Units pro rata
-allocations of the Company’s income, gains, losses, deductions, credits
-and items for that portion of the Company’s Fiscal Year after the
+allocations of the Company's income, gains, losses, deductions, credits
+and items for that portion of the Company's Fiscal Year after the
 effective date of the issuance of the Additional Units.
 
 **  
@@ -1576,7 +1576,7 @@ executed an instrument reasonably satisfactory to the other Members
 accepting and agreeing to the terms and conditions of this Agreement,
 including a counterpart signature page to this Agreement, and without
 having paid to the Company a fee sufficient to cover all reasonable
-expenses of the Company in connection with such assignee’s admission as
+expenses of the Company in connection with such assignee's admission as
 a Substitute Member.  If a Member assigns all of its interest in the
 Company and the assignee of such interest is entitled to become a
 Substitute Member pursuant to this Section 14.1, such assignee shall be
@@ -1602,13 +1602,13 @@ Section 14.1, the parties engaging or attempting to engage in such
 Transfer shall be liable to indemnify and hold harmless the Company and
 the other Members from all costs, liabilities and damages that any of
 such indemnified Persons may incur (including, without limitation,
-incremental tax liability and lawyers’ fees and expenses) as a result of
+incremental tax liability and lawyers' fees and expenses) as a result of
 such Transfer or attempted Transfer and efforts to enforce the indemnity
 granted hereby.
 
 Section 14.4  Effective Date of Assignment  TC "Section 14.4  Effective
 Date of Assignment" \\f C \\l "2" .  Any valid assignment or other
-Transfer of a Member’s interest in the Company, or part thereof,
+Transfer of a Member's interest in the Company, or part thereof,
 pursuant to the provisions of Section 14.1 shall be effective as of the
 close of business on the last day of the calendar month in which the
 other Members give their written consent to such assignment or other
@@ -1645,7 +1645,7 @@ Act;
 
 provided, however, at any time before the winding up of the Company is
 completed the Members may unanimously waive the right to have the
-Company’s business wound up and the Company terminated, in which case
+Company's business wound up and the Company terminated, in which case
 the Company shall resume carrying on its business.
 
 Section 15.3  Notice of Dissolution  TC "Section 15.3  Notice of
@@ -1656,14 +1656,14 @@ Members of such dissolution.
 
 Section 15.4  Liquidation  TC "Section 15.4  Liquidation" \\f C \\l "2"
 .  Upon dissolution of the Company the Liquidating Trustee shall
-immediately commence to wind up the Company’s affairs; provided,
+immediately commence to wind up the Company's affairs; provided,
 however, that a reasonable time shall be allowed for the orderly
 liquidation of the assets of the Company and the satisfaction of
 liabilities to creditors so as to enable the Members to minimize the
 normal losses attendant upon a liquidation.  The Unit Holders shall
 continue to share Profits and Losses during liquidation in the same
 proportions, as specified in Article VII, as before liquidation.  Each
-Member shall be furnished with a statement prepared by the Company’s
+Member shall be furnished with a statement prepared by the Company's
 certified public accountants that shall set forth the assets and
 liabilities of the Company as of the date of dissolution.  The proceeds
 of liquidation shall be distributed, as realized, in the following order
@@ -1716,7 +1716,7 @@ Act.
 
 Section 15.6  Claims of Members  TC "Section 15.6  Claims of Members"
 \\f C \\l "2" .  The Members and Assignees shall look solely to the
-Company’s assets for the return of their Capital Contributions, and if
+Company's assets for the return of their Capital Contributions, and if
 the assets of the Company remaining after payment of or due provision
 for all debts, liabilities and obligations of the Company are
 insufficient to return such Capital Contributions, the Members and
@@ -1741,8 +1741,8 @@ any relationship to a party and all arbitrators shall be bound, as
 nearly as may be possible, to the ethical restrictions imposed on judges
 in Illinois, and provided further that no party shall be estopped from
 challenging an arbitrator for non-compliance with the foregoing criteria
-by reason of such party’s having participated in the process of
-selecting the arbitrator.  The arbitrators’ ruling shall be binding and
+by reason of such party's having participated in the process of
+selecting the arbitrator.  The arbitrators' ruling shall be binding and
 conclusive upon the parties hereto to the fullest extent permitted by
 law.  Any arbitration shall occur in Chicago, Illinois, and judgment
 upon the award rendered may be entered in any court having jurisdiction
@@ -1761,7 +1761,7 @@ notices provided for in this Agreement shall be in writing, duly signed
 by the party giving such notice, and shall be delivered, telecopied or
 mailed by registered or certified mail, as follows:
 
-​(i) if given to the Company, in care of the Manager at the Company’s
+​(i) if given to the Company, in care of the Manager at the Company's
 mailing address set forth on **Schedule A** attached hereto;
 
 ​(ii) if given to the Manager, at its mailing address set forth on

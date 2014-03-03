@@ -5,7 +5,7 @@
 > Datascope. We share this with the hope that others will benefit from
 > it in some way.
 
-=== The basic idea
+### The basic idea
 
 Datascope is structured so that we effectively "start a new company"
 every year where each partner receives units in this "new company". In
@@ -17,7 +17,7 @@ basically become equal, partners become equal owners of each "new
 company" and Datascope overall, which reflects a reality that the
 business will change by adding more partners over time.
 
-=== The way it works
+### The way it works
 
 Every December, the existing partners at Datascope decide which other
 individuals would make outstanding partners. New partners are elected
@@ -60,7 +60,7 @@ units in three primary ways:
 To gain an appreciation for how this works in practice, please
 [explore our visualization](web/).
 
-=== Background
+### Background
 
 We were generally nonplussed by the "standard model" for adding
 partners to a business, where new partners have to "buy in" by taking

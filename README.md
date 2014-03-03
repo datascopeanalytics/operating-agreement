@@ -102,3 +102,8 @@ for figuring out the math behind how we could achieve equal
 partnership in 5-10 years and Gene drafted the legalese to address our
 goals.
 
+We've been very happy with this since we amended and restarted our
+operating agreement effective January 2012. Since then, we've added
+partners and shared this with a few other people. We thought we'd
+share this a bit more broadly in the event that others find this
+useful.

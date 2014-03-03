@@ -1,0 +1,95 @@
+body {
+  font: 10px sans-serif;
+  width: 960px;
+}
+
+#members {
+  float: left;
+}
+svg {
+  float: left;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.t.axis text {
+  display: none;
+}
+
+.t.axis.show text {
+  display: inline;
+}
+
+.dashes {
+  fill: none;
+  stroke: #aaa;
+  stroke-width: 2px;
+  shape-rendering: crispEdges;
+  /* stroke-dasharray: 10,15; */
+}
+
+#valuation_nav, #time_nav, #add_button {
+  fill: #ccc;
+  stroke: #666;
+  stroke-linecap: round;
+}
+#add_button {
+  stroke: none;
+  fill-opacity: 0.7;
+  cursor: pointer;
+}
+#add_button rect.plus_sign {
+  fill: white;
+  fill-opacity: 1;
+  stroke: none;
+}
+#add_button text {
+  text-anchor: start;
+  fill: #666;
+}
+
+#valuation_nav {
+  cursor: row-resize;
+}
+#time_nav {
+  cursor: col-resize;
+}
+
+.label {
+  text-anchor: middle;
+}
+.label.back {
+  stroke: #fff;
+  stroke-width: 4;
+}
+.label.front {
+  stroke: none;
+  fill: #000;
+}
+
+.label.units.liquidation {
+  display: none;
+}
+
+.noshow {
+  display: none;
+}
+
+.member.equity {
+  fill: none;
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+.one_n.equity {
+  fill: none;
+  stroke-width: 1px;
+  stroke: black;
+  shape-rendering: crispEdges;
+  stroke-dasharray: 10,15;
+}

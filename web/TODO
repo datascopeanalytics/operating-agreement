@@ -1,0 +1,26 @@
+Bugs
+====
+
+Features
+========
+
+* Add buttons to add another year with a value starting 10% higher
+   than previous year (or should we just have 20 years to begin with?)
+
+* change years to founding y0, y1, y2, ..., future to make it more
+   generalizable
+
+* use better tooltips
+
+   * should display at vertical center on rectangles
+
+   * should follow the dragged time slider
+
+* use less space for the member timeline? maybe put all of the members
+   on the same timeline. this would help put everything in the same
+   view when the visual is opened
+
+* maybe start with only two members to illustrate that the company was
+   founded at a particular date? could be a better way of showing the
+   difference between the first series of units and later series' of
+   units

@@ -1,6 +1,6 @@
 MEMBER SIGNATURE PAGE
 
-\
+  
 
 The undersigned, desiring to become a Member of DATASCOPE ANALYTICS LLC
 (the “Company”), hereby agrees to all of the terms and conditions of the
@@ -13,13 +13,13 @@ be bound and governed by the terms of such Agreement.
 Executed and acknowledged by the undersigned as a Member of DATASCOPE
 ANALYTICS LLC, as of the [INSERT DATE] day of [INSERT MONTH, YEAR].
 
-\
+  
 
 MEMBER:
 
-\
+  
 
-\
+  
 
 [INSERT NAME]
 

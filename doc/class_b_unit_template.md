@@ -1,12 +1,12 @@
 No. B[INSERT SHARE ID]
 
-\
+  
 
-CERTIFICATE OF CLASS B UNITS\
-IN\
+CERTIFICATE OF CLASS B UNITS  
+IN  
 DATASCOPE ANALYTICS LLC
 
-\
+  
 
 This Certificate of Class B Units certifies that
 **[INSERT MEMBER NAME]** is the owner of **[INSERT NUMBER OF CLASS B UNITS] Series
@@ -24,21 +24,21 @@ properly endorsed, to the Company.
 
 Dated this [INSERT DATE] day of [INSERT MONTH, YEAR].
 
-\
+  
 
 By:
 
-\
+  
 
-\
+  
 
 [INSERT MANAGER NAME], Manager
 
 By:
 
-\
+  
 
-\
+  
 
 [INSERT MANAGER NAME], Manager
 

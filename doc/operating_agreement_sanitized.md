@@ -1,8 +1,8 @@
 **AMENDED AND RESTATED**
 
-**LIMITED LIABILITY COMPANY AGREEMENT\
- OF\
- DATASCOPE ANALYTICS LLC\
+**LIMITED LIABILITY COMPANY AGREEMENT  
+ OF  
+ DATASCOPE ANALYTICS LLC  
 **
 
 **Dated as of January 1, 2012**
@@ -217,7 +217,7 @@ Section 17.7  Integration PAGEREF \_Toc345400745 \\h 27
 
 Section 17.8  Governing Law PAGEREF \_Toc345400746 \\h 28
 
-\
+  
 
 SCHEDULE A — Manager, Members and Non-Member Unit Holders
 
@@ -225,7 +225,7 @@ SCHEDULE B — Valuation Methodology
 
 SCHEDULE C — Hypothetical Liquidation Scenarios
 
-****\
+****  
 
 **THIS AMENDED AND RESTATED LIMITED LIABILITY COMPANY AGREEMENT** (as
 amended, supplemented or restated from time to time, this "Agreement")
@@ -247,8 +247,8 @@ Agreement is null and void and of no further effect.
 
 The Members hereby agree as follows:
 
-\
- **ARTICLE I\
+  
+ **ARTICLE I  
  CERTAIN DEFINED TERMS ** TC "Article I.  Certain Defined Terms" \\f C
 \\l "1" 
 
@@ -533,8 +533,8 @@ shall be applicable.  All references herein to "Articles," "Sections"
 and paragraphs shall refer to corresponding provisions of this
 Agreement.
 
-**\
- ARTICLE II\
+**  
+ ARTICLE II  
  FORMATION OF LIMITED LIABILITY COMPANY ** TC "Article II.  Formation of
 Limited Liability Company" \\f C \\l "1" 
 
@@ -580,7 +580,7 @@ and file any certificates (and any amendments and/or restatements
 thereof) necessary for the Company to qualify to do business in a
 jurisdiction in which the Company may wish to conduct business.
 
-**ARTICLE III\
+**ARTICLE III  
  MEMBERSHIP ** TC "Article III.  Membership" \\f C \\l "1" 
 
 Section 3.1 Members  TC "Section 3.1  Members" \\f C \\l "2" .
@@ -804,10 +804,10 @@ transfer of the Terminated Units under this Agreement.
 ​(ii) If a Member withdraws in violation of Section 3.6 or is expelled
 from the Company under Section 3.7(ii), the Company may recover damages
 from the Member and may offset the Company’s damages against any amount
-owed to the Member for distributions or otherwise.\
+owed to the Member for distributions or otherwise.  
 
-**ARTICLE IV\
- CAPITAL CONTRIBUTIONS, UNITS,\
+**ARTICLE IV  
+ CAPITAL CONTRIBUTIONS, UNITS,  
  CAPITAL ACCOUNTS AND ADVANCES ** TC "Article IV.  Capital
 Contributions, Units, Capital Accounts and Advances" \\f C \\l "1" 
 
@@ -951,8 +951,8 @@ nonrecourse loan to the Company shall have or acquire, as a result of
 making such loan, any direct or indirect interest in the profits,
 capital or property of the Company, other than as a creditor.
 
-\
- **ARTICLE V\
+  
+ **ARTICLE V  
  MANAGERS ** TC "Article V.  Managers" \\f C \\l "1" 
 
 Section 5.1  Designation of Manager  TC "Section 5.1  Designation of
@@ -1078,8 +1078,8 @@ be entitled to receive compensation from the Company for serving as
 officers, except to the extent reasonably determined by the Manager and
 approved by a Unanimous Vote.
 
-**\
- ARTICLE VI\
+**  
+ ARTICLE VI  
  ACTION BY MEMBERS; AMENDMENTS  ** TC "Article VI.  Action by Members;
 Amendments" \\f C \\l "1" 
 
@@ -1115,8 +1115,8 @@ may amend this Agreement without the consent of the Members in order to
 clarify any clerical inaccuracy or ambiguity or reconcile any
 inconsistency. 
 
-**\
- ARTICLE VII\
+**  
+ ARTICLE VII  
  ALLOCATIONS ** TC "Article VII.  Allocations" \\f C \\l "1" 
 
 Section 7.1  Profits and Losses  TC "Section 7.1  Profits and Losses"
@@ -1188,8 +1188,8 @@ account in computing, any Unit Holder’s Capital Account or share of
 Profits, Losses, other items or distributions pursuant to any provision
 of this Agreement.
 
-**\
- ARTICLE VIII\
+**  
+ ARTICLE VIII  
  DISTRIBUTIONS ** TC "Article VIII.  Distributions" \\f C \\l "1" 
 
 Section 8.1  Net Cash Flow  TC "Section 8.1  Net Cash Flow" \\f C \\l
@@ -1232,8 +1232,8 @@ Section 8.4  Guaranteed Payments  TC "Section 8.4  Guaranteed Payments"
 services rendered at such times and in such amounts as shall be
 determined by the Manager.
 
-**\
- ARTICLE IX\
+**  
+ ARTICLE IX  
  ACCOUNTING AND RECORDS**  TC "ARTICLE IX.  Accounting and Records" \\f
 C \\l "1" 
 
@@ -1287,8 +1287,8 @@ such Members timely to file their federal income tax returns.  The
 Manager similarly shall file, and provide information to the Members
 regarding, all appropriate state and local income tax returns.
 
-**\
- ARTICLE X\
+**  
+ ARTICLE X  
  TAX MATTERS ** TC "Article X.  Tax Matters" \\f C \\l "1" 
 
 Section 10.1  Tax Matters Member  TC "Section 10.1  Tax Matters Member"
@@ -1318,8 +1318,8 @@ discretion, make or revoke, on behalf of the Company, any tax election
 under the Code or the Treasury Regulations, except an election to be
 treated as a corporation, or under state, local or foreign law.
 
-**\
- ARTICLE XI\
+**  
+ ARTICLE XI  
  LIABILITY, EXCULPATION AND INDEMNIFICATION ** TC "Article XI. 
 Liability, Exculpation and Indemnification" \\f C \\l "1" 
 
@@ -1393,8 +1393,8 @@ on behalf of the Covered Person to repay such amount if it shall be
 determined that the Covered Person is not entitled to be indemnified as
 authorized in Section 11.3.
 
-**\
- ARTICLE XII\
+**  
+ ARTICLE XII  
  NON-COMPETITION; CONFIDENTIALITY ** TC "Article XII.  Non-Competition;
 Confidentiality" \\f C \\l "1" 
 
@@ -1486,9 +1486,9 @@ Company shall have the right to offset its damages from such breach
 against any amount owed for distributions or otherwise to the breaching
 Member.
 
-**\
- ARTICLE XIII\
- ADMISSION OF NEW MEMBERS;\
+**  
+ ARTICLE XIII  
+ ADMISSION OF NEW MEMBERS;  
  OFFERING OF ADDITIONAL UNITS ** TC "Article XIII.  Admission of New
 Members; Offering of Additional Units" \\f C \\l "1" 
 
@@ -1550,8 +1550,8 @@ allocations of the Company’s income, gains, losses, deductions, credits
 and items for that portion of the Company’s Fiscal Year after the
 effective date of the issuance of the Additional Units.
 
-**\
- ARTICLE XIV\
+**  
+ ARTICLE XIV  
  ASSIGNABILITY AND SUBSTITUTE MEMBERS ** TC "Article XIV.  Assignability
 and Substitute Members" \\f C \\l "1" 
 
@@ -1623,8 +1623,8 @@ Transfer occurs shall be apportioned for federal income tax purposes in
 accordance with any convention permitted under § 706(d) of the Code and
 selected by the Manager.
 
-\
- **ARTICLE XV\
+  
+ **ARTICLE XV  
  DISSOLUTION, LIQUIDATION AND TERMINATION ** TC "Article XV. 
 Dissolution, Liquidation and Termination" \\f C \\l "1" 
 
@@ -1723,8 +1723,8 @@ insufficient to return such Capital Contributions, the Members and
 Assignees shall have no recourse against the Company or any other Member
 or the Manager.
 
-**\
- ARTICLE XVI\
+**  
+ ARTICLE XVI  
  ARBITRATION ** TC "Article XVI.  Arbitration" \\f C \\l "1" 
 
 To the fullest extent permitted by the Act and other applicable law, any
@@ -1752,8 +1752,8 @@ expenses of the arbitration shall be borne equally by the parties to the
 arbitration, provided that each party shall pay for and bear the cost of
 its own experts, evidence and legal counsel.
 
-**\
- ARTICLE XVII\
+**  
+ ARTICLE XVII  
  MISCELLANEOUS ** TC "Article XVII.  Miscellaneous" \\f C \\l "1" 
 
 Section 17.1  Notices  TC "Section 17.1  Notices" \\f C \\l "2" .  All
@@ -1815,7 +1815,7 @@ interpreted in accordance with the laws of the State of Illinois, and
 all rights and remedies shall be governed by such laws without regard to
 principles of conflict of laws.
 
-\
+  
 
 [Signature Pages Follow]
 
@@ -1824,53 +1824,53 @@ of the date first above stated.
 
 MEMBERS:
 
-\
+  
 
-By: \
- Name:  [INSERT MEMBER NAME]\
+By:   
+ Name:  [INSERT MEMBER NAME]  
  Title:    Member
 
-\
+  
 
-By: \
- Name:  [INSERT MEMBER NAME]\
+By:   
+ Name:  [INSERT MEMBER NAME]  
  Title:    Member
 
-\
+  
 
-By: \
- Name:  [INSERT MEMBER NAME]\
+By:   
+ Name:  [INSERT MEMBER NAME]  
  Title:    Member
 
-\
+  
 
-\
+  
 
 This Agreement is accepted and agreed to by:
 
 MANAGERS:
 
-\
+  
 
-By: \
- Name:  [INSERT MANAGER NAME]\
+By:   
+ Name:  [INSERT MANAGER NAME]  
  Title:    Manager
 
-\
+  
 
-\
+  
 
-\
+  
 
-By: \
- Name:  [INSERT MANAGER NAME]\
+By:   
+ Name:  [INSERT MANAGER NAME]  
  Title:    Manager
 
-\
+  
 
-\
+  
 
-[Signature Pages of Members Admitted \
+[Signature Pages of Members Admitted   
  after the date of this Agreement to Follow]
 
 

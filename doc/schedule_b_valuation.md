@@ -1,6 +1,6 @@
 SCHEDULE B
 
-\
+  
 
 The valuation of the Company shall be determined by the Manager in
 accordance with the provisions of this schedule on an annual basis at
@@ -24,7 +24,7 @@ The valuation of the Company as determined by the Manager shall not be
 greater than the largest of these techniques and not smaller than the
 smallest of these techniques. 
 
-\
+  
 
 Please note that the ranges on these multiples may be subject to change
 due to a number of factors, including exceptionally high/low growth,

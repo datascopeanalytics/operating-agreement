@@ -1,11 +1,10 @@
-<p style="text-align:right">No. B[INSERT SHARE ID]</p>
+No. B[INSERT SHARE ID]
 
-  
-<p style="text-align:center">
+
+
 CERTIFICATE OF CLASS B UNITS  
 IN  
 DATASCOPE ANALYTICS LLC
-</p>
 
   
 

@@ -27,7 +27,7 @@ partner deems fit.
 At the end of the fiscal year, we agree upon a valuation which
 [is some function of the financial performance of Datascope in the previous year](docs/schedule_b_valuation.md). Although
 it isn't written into the
-[Operating Agreement](docs/operating_agreement.md), we choose to issue
+[Operating Agreement](docs/operating_agreement_sanitized.md), we choose to issue
 new Class B Units in proportion to the valuation of Datascope on the
 1st of the year. Since these new Class B Units are profits interest
 units that are issued at a specific valuation of Datascope, there are
@@ -35,7 +35,7 @@ no tax consequences for these new units &mdash; they are worth nothing
 on day 1.
 
 Although it isn't written into the
-[Operating Agreement](docs/operating_agreement.md), we choose to
+[Operating Agreement](docs/operating_agreement_sanitized.md), we choose to
 distribute these new Class B Units to all existing partners in
 proportion to the amount of time they have been a partner. This has
 the desireable propety to reward people that stay over time and

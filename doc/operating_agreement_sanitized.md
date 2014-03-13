@@ -8,9 +8,9 @@
 
 TABLE OF CONTENTS
 
-Article I.  Certain Defined Terms
+[Article I.  Certain Defined Terms](#article-1)
 
-Section 1.1  Definitions
+[Section 1.1  Definitions](#section-1-1)
 
 Section 1.2  Headings
 

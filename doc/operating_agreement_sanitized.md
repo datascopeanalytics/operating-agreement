@@ -12,23 +12,23 @@ TABLE OF CONTENTS
 
 [Section 1.1  Definitions](#section-1-1)
 
-Section 1.2  Headings
+[Section 1.2  Headings](#section-1-2)
 
-Section 1.3  Interpretation
+[Section 1.3  Interpretation](#section-1-3)
 
-Article II.  Formation of Limited Liability Company
+[Article II.  Formation of Limited Liability Company](#article-2)
 
-Section 2.1  Formation
+[Section 2.1  Formation](#section-2-1)
 
-Section 2.2  Purpose
+[Section 2.2  Purpose](#section-2-2)
 
-Section 2.3  Term
+[Section 2.3  Term](#section-2-3)
 
-Section 2.4  Registered Agent and Office
+[Section 2.4  Registered Agent and Office](#section-2-4)
 
-Section 2.5  Principal Place of Business
+[Section 2.5  Principal Place of Business](#section-2-5)
 
-Section 2.6  Qualification in Other Jurisdictions
+[Section 2.6  Qualification in Other Jurisdictions](#section-2-6)
 
 Article III.  Membership
 
@@ -496,50 +496,50 @@ in any decision or action of or by the Members, or any right to
 information, to an accounting of the Company's affairs or to inspect the
 Company's books and records.
 
-Section 1.2 Headings. The headings and subheadings in this Agreement
+<a name="section-1-2"></a>Section 1.2 Headings. The headings and subheadings in this Agreement
 are included for convenience and identification only and are in no way
 intended to describe, interpret, define or limit the scope, extent or
 intent of this Agreement or any provision.
 
-Section 1.3 Interpretation. Throughout this Agreement, nouns,
+<a name="section-1-3"></a>Section 1.3 Interpretation. Throughout this Agreement, nouns,
 pronouns and verbs shall be construed as masculine, feminine, neuter,
 singular or plural, whichever shall be applicable.  All references
 herein to "Articles," "Sections" and paragraphs shall refer to
 corresponding provisions of this Agreement.
 
-**ARTICLE II FORMATION OF LIMITED LIABILITY COMPANY**
+<a name="article-2"></a>**ARTICLE II FORMATION OF LIMITED LIABILITY COMPANY**
 
-Section 2.1  Formation. The
+<a name="section-2-1"></a>Section 2.1  Formation. The
 Members have formed DATASCOPE ANALYTICS LLC as a limited liability
 company under and pursuant to the provisions of the Act and agree that
 the rights, duties and liabilities of the Members and the Manager shall
 be as provided in the Act, except as otherwise provided in this
 Agreement.
 
-Section 2.2  Purpose.  The
+<a name="section-2-2"></a>Section 2.2  Purpose.  The
 purpose of the Company is to engage in any lawful act or activity for
 which limited liability companies may be organized under the Act and all
 related or incidental activities.
 
-Section 2.3  Term.  The term of
+<a name="section-2-3"></a>Section 2.3  Term.  The term of
 the Company commenced on the date the Articles of Organization were
 filed in the office of the Secretary of State of the State of Illinois
 and shall continue indefinitely or until dissolved in accordance with
 the provisions of this Agreement.
 
-Section 2.4 Registered Agent and Office.  The Company's registered agent and
+<a name="section-2-4"></a>Section 2.4 Registered Agent and Office.  The Company's registered agent and
 office in Illinois shall be Business Filings Incorporated, 600 South
 Second Street, Suite 103, Springfield, Illinois 62704.  At any time, the
 Manager may designate another registered agent and/or registered office.
 
-Section 2.5 Principal Place of Business.  The principal place of
+<a name="section-2-5"></a>Section 2.5 Principal Place of Business.  The principal place of
 business of the Company shall initially be 180 W Adams, Suite 801,
 Chicago, Illinois 60657.  Upon ten days notice to the Members, the
 Manager may change the location of the Company's principal place of
 business, provided that such change has no material adverse effect
 upon any Member.
 
-Section 2.6  Qualification in Other Jurisdictions.  The Manager shall
+<a name="section-2-6"></a>Section 2.6  Qualification in Other Jurisdictions.  The Manager shall
 cause the Company to be qualified, formed or registered under assumed or
 fictitious name statutes or similar laws in any jurisdiction in which
 the Company is required to be so qualified, formed or registered in

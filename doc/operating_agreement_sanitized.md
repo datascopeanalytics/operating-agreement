@@ -227,9 +227,9 @@ Agreement is null and void and of no further effect.
 The Members hereby agree as follows:
 
   
-**ARTICLE I CERTAIN DEFINED TERMS**
+<a id="article-1"></a>**ARTICLE I CERTAIN DEFINED TERMS**
 
-Section 1.1 Definitions. Unless the context otherwise requires, the
+<a id="section-1-1"></a>Section 1.1 Definitions. Unless the context otherwise requires, the
 terms defined in this Article I shall, for the purposes of this
 Agreement, have the meanings specified.
 

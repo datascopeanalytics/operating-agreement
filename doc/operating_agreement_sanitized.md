@@ -77,33 +77,33 @@ TABLE OF CONTENTS
 
 [Section 5.7  Officers](#section-5-7)
 
-Article VI.  Action by Members; Amendments
+[Article VI.  Action by Members; Amendments](#article-6)
 
-Section 6.1  Meetings; Action without Meeting
+[Section 6.1  Meetings; Action without Meeting](#section-6-1)
 
-Section 6.2  Amendments
+[Section 6.2  Amendments](#section-6-2)
 
-Section 6.3  Amendments Without Consent of Members
+[Section 6.3  Amendments Without Consent of Members](#section-6-3)
 
-Article VII.  Allocations
+[Article VII.  Allocations](#article-7)
 
-Section 7.1  Profits and Losses
+[Section 7.1  Profits and Losses](#section-7-1)
 
-Section 7.2  Allocation Rules
+[Section 7.2  Allocation Rules](#section-7-2)
 
-Section 7.3  Tax Allocations; Section 704(c) of the Code
+[Section 7.3  Tax Allocations; Section 704(c) of the Code](#section-7-3)
 
-Article VIII.  Distributions
+[Article VIII.  Distributions](#article-8)
 
-Section 8.1  Net Cash Flow
+[Section 8.1  Net Cash Flow](#section-8-1)
 
-Section 8.2  Distribution Rules
+[Section 8.2  Distribution Rules](#section-8-2)
 
-Section 8.3  Limitations on Distributions
+[Section 8.3  Limitations on Distributions](#section-8-3)
 
-Section 8.4  Guaranteed Payments
+[Section 8.4  Guaranteed Payments](#section-8-4)
 
-ARTICLE IX.  Accounting and Records
+[Article IX. Accounting and Records](#article-9)
 
 Section 9.1  Financial and Tax Reporting
 
@@ -1028,9 +1028,9 @@ be entitled to receive compensation from the Company for serving as
 officers, except to the extent reasonably determined by the Manager and
 approved by a Unanimous Vote.
 
-**ARTICLE VI ACTION BY MEMBERS; AMENDMENTS**
+<a name="article-6"></a>**ARTICLE VI ACTION BY MEMBERS; AMENDMENTS**
 
-Section 6.1  Meetings; Action without Meeting.
+<a name="section-6-1"></a>Section 6.1  Meetings; Action without Meeting.
 
 ​(i) Meetings of the Members may be called by the Manager and shall be
 called by the Manager upon the written request of any Member.  The call
@@ -1050,7 +1050,7 @@ minutes of proceedings of meetings of the Members.
 of Members under this Agreement may be taken with a Majority Vote,
 unless this Agreement expressly requires a greater vote or consent. 
 
-Section 6.2  Amendments. 
+<a name="section-6-2"></a>Section 6.2  Amendments. 
 Any amendment to this Agreement shall be adopted and be effective as an
 amendment hereto if it receives a Unanimous Vote.
 
@@ -1060,9 +1060,9 @@ may amend this Agreement without the consent of the Members in order to
 clarify any clerical inaccuracy or ambiguity or reconcile any
 inconsistency. 
 
-**ARTICLE VII ALLOCATIONS**
+<a name="article-7"></a>**ARTICLE VII ALLOCATIONS**
 
-Section 7.1  Profits and Losses.
+<a name="section-7-1"></a>Section 7.1  Profits and Losses.
 
 ​(i) Subject to the allocation rules of Section 7.2, Profits for any
 Fiscal Year shall be allocated among the Unit Holders in proportion to
@@ -1072,7 +1072,7 @@ the number of Units held by each Unit Holder.
 Fiscal Year shall be allocated among the Unit Holders in proportion to
 the number of Units held by each Unit Holder.
 
-Section 7.2  Allocation Rules.
+<a name="section-7-2"></a>Section 7.2  Allocation Rules.
 
 ​(i) In the event Members are admitted to the Company pursuant to this
 Agreement on different dates, the Profits (or Losses) allocated to the
@@ -1099,7 +1099,7 @@ allocations made by this Article VII and hereby agree to be bound by the
 provisions of this Article VII in reporting their shares of Company
 income and loss for income tax purposes.
 
-Section 7.3  Tax Allocations; Section 704(c) of the Code.
+<a name="section-7-3"></a>Section 7.3  Tax Allocations; Section 704(c) of the Code.
 
 ​(i) In accordance with § 704(c) of the Code and the Treasury
 Regulations thereunder, income, gain, loss and deduction with respect to
@@ -1128,14 +1128,14 @@ account in computing, any Unit Holder's Capital Account or share of
 Profits, Losses, other items or distributions pursuant to any provision
 of this Agreement.
 
-**ARTICLE VIII DISTRIBUTIONS**
+<a name="article-8"></a>**ARTICLE VIII DISTRIBUTIONS**
 
-Section 8.1  Net Cash Flow. Except as otherwise provided in Article XV (relating to the
+<a name="section-8-1"></a>Section 8.1  Net Cash Flow. Except as otherwise provided in Article XV (relating to the
 dissolution of the Company), any distribution of the Net Cash Flow
 during any Fiscal Year shall be made to the Unit Holders in proportion
 to the number of Units held by each Unit Holder.
 
-Section 8.2  Distribution Rules.
+<a name="section-8-2"></a>Section 8.2  Distribution Rules.
 
 ​(i) All distributions pursuant to Section 8.1 shall be at such times
 and in such amounts as shall be determined by the Manager; provided,
@@ -1156,17 +1156,17 @@ amounts required to be so withheld pursuant to the Code or any provision
 of any other federal, state or local law and shall allocate such amounts
 to those Unit Holders with respect to which such amounts were withheld.
 
-Section 8.3  Limitations on Distribution.  Notwithstanding any provision to the
+<a name="section-8-3"></a>Section 8.3  Limitations on Distribution.  Notwithstanding any provision to the
 contrary contained in this Agreement, the Company shall not make a
 distribution to any Unit Holder on account of its interest in the
 Company if such distribution would violate § 25-30 of the Act or other
 applicable law.
 
-Section 8.4  Guaranteed Payments.  Each Member shall receive guaranteed payments for
+<a name="section-8-4"></a>Section 8.4  Guaranteed Payments.  Each Member shall receive guaranteed payments for
 services rendered at such times and in such amounts as shall be
 determined by the Manager.
 
-**ARTICLE IX ACCOUNTING AND RECORDS**
+<a name="article-9"></a>**ARTICLE IX ACCOUNTING AND RECORDS**
 
 Section 9.1  Financial and Tax Reporting. The Company shall prepare its
 financial statements and its income tax information returns using such

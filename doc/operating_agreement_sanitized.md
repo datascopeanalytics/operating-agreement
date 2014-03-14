@@ -30,52 +30,52 @@ TABLE OF CONTENTS
 
 [Section 2.6  Qualification in Other Jurisdictions](#section-2-6)
 
-Article III.  Membership
+[Article III.  Membership](#article-3)
 
-Section 3.1  Members
+[Section 3.1  Members](#section-3-1)
 
-Section 3.2  Member Representations and Warranties
+[Section 3.2  Member Representations and Warranties](#section-3-2)
 
-Section 3.3  Powers of Members
+[Section 3.3  Powers of Members](#section-3-3)
 
-Section 3.4  Reimbursements
+[Section 3.4  Reimbursements](#section-3-4)
 
-Section 3.5  Partition
+[Section 3.5  Partition](#section-3-5)
 
-Section 3.6  Withdrawal
+[Section 3.6  Withdrawal](#section-3-6)
 
-Section 3.7  Termination of Membership
+[Section 3.7  Termination of Membership](#section-3-7)
 
-Section 3.8  Effects of Termination of Membership
+[Section 3.8  Effects of Termination of Membership](#section-3-8)
 
-Article IV.  Capital Contributions, Units, Capital Accounts and Advances
+[Article IV.  Capital Contributions, Units, Capital Accounts and Advances](#article-4)
 
-Section 4.1  Capital Contributions
+[Section 4.1  Capital Contributions](#section-4-1)
 
-Section 4.2  Units
+[Section 4.2  Units](#section-4-2)
 
-Section 4.3  Status of Capital Contributions
+[Section 4.3  Status of Capital Contributions](#section-4-3)
 12
 
-Section 4.4  Capital Accounts
+[Section 4.4  Capital Accounts](#section-4-4)
 
-Section 4.5  Advances
+[Section 4.5  Advances](#section-4-5)
 
-Article V.  Managers
+[Article V.  Managers](#article-5)
 
-Section 5.1  Designation of Manager
+[Section 5.1  Designation of Manager](#section-5-)
 
-Section 5.2  Manager as Agent
+[Section 5.2  Manager as Agent](#section-5-2)
 
-Section 5.3  Limitations on Powers of Manager
+[Section 5.3  Limitations on Powers of Manager](#section-5-3)
 
-Section 5.4  Reimbursement of Manager Expenses
+[Section 5.4  Reimbursement of Manager Expenses](#section-5-4)
 
-Section 5.5  Removal of Manager
+[Section 5.5  Removal of Manager](#section-5-5)
 
-Section 5.6  Resignation of Manager
+[Section 5.6  Resignation of Manager](#section-5-6)
 
-Section 5.7  Officers
+[Section 5.7  Officers](#section-5-7)
 
 Article VI.  Action by Members; Amendments
 
@@ -549,9 +549,9 @@ and file any certificates (and any amendments and/or restatements
 thereof) necessary for the Company to qualify to do business in a
 jurisdiction in which the Company may wish to conduct business.
 
-**ARTICLE III MEMBERSHIP**
+<a name="article-3"></a>**ARTICLE III MEMBERSHIP**
 
-Section 3.1 Members.
+<a name="section-3-1"></a>Section 3.1 Members.
 
 ​(i) The current Members of the Company are set forth on **Schedule A**
 to this Agreement, each of whom has been admitted to the Company as a
@@ -566,7 +566,7 @@ this Agreement.  Any reference in this Agreement to **Schedule A** shall
 be deemed to be a reference to **Schedule A** as amended and in effect
 from time to time.
 
-Section 3.2 Member Representations and Warranties.  Each Member
+<a name="section-3-2"></a>Section 3.2 Member Representations and Warranties.  Each Member
 hereby represents and warrants to the other Members and the Company as
 follows:
 
@@ -614,7 +614,7 @@ time.
 partnership, foreign limited liability company or foreign estate as
 those terms are defined in the Code.
 
-Section 3.3  Powers of Members.  The Members shall have the power to exercise any and all
+<a name="section-3-3"></a>Section 3.3  Powers of Members.  The Members shall have the power to exercise any and all
 rights or powers granted to the Members pursuant to the express terms of
 this Agreement.  The Members shall also have the power to authorize the
 Manager, by Majority Vote, to possess and exercise any right or power
@@ -624,7 +624,7 @@ and all other rights or powers of the Company and do all lawful acts and
 things as are not by the Act or this Agreement directed or required to
 be exercised or done by the Manager.
 
-Section 3.4  Reimbursements.  The Company shall reimburse the Members for all ordinary and
+<a name="section-3-4"></a>Section 3.4  Reimbursements.  The Company shall reimburse the Members for all ordinary and
 necessary out-of-pocket expenses incurred by the Members on behalf of
 the Company.  The Manager's sole determination of which expenses may be
 reimbursed to a Member and the amount of such expenses shall be
@@ -633,16 +633,16 @@ Company that shall be deducted in computing the Net Cash Flow and shall
 not be deemed to constitute a distributive share of Profits or a
 distribution or return of capital to any Member.
 
-Section 3.5  Partition. 
+<a name="section-3-5"></a>Section 3.5  Partition. 
 Each Member waives, until termination of the Company, any and all rights
 that it may have to maintain an action for partition of the Company's
 property.
 
-Section 3.6  Withdrawal. A
+<a name="section-3-6"></a>Section 3.6  Withdrawal. A
 Member may not withdraw from the Company without the written consent of
 all of the other Members.  
 
-Section 3.7  Termination of Membership. 
+<a name="section-3-7"></a>Section 3.7  Termination of Membership. 
 
 ​(i) Except as otherwise unanimously agreed in writing by the other
 Members, the occurrence of any of the following events with respect to
@@ -686,7 +686,7 @@ material written policy, rule or regulation of the Company upon failure
 to cure such breach within ninety (90) days of written notice of such
 breach from two (2) or more Members.
 
-Section 3.8  Effects of Termination of Membership.
+<a name="section-3-8"></a>Section 3.8  Effects of Termination of Membership.
 
 ​(i) If a Member's membership is terminated under Section 3.7(i) (the
 "Terminated Member"), the Manager shall provide written notice to the
@@ -769,9 +769,9 @@ from the Company under Section 3.7(ii), the Company may recover damages
 from the Member and may offset the Company's damages against any amount
 owed to the Member for distributions or otherwise.  
 
-**ARTICLE IV CAPITAL CONTRIBUTIONS, UNITS, CAPITAL ACCOUNTS AND ADVANCES**
+<a name="article-4"></a>**ARTICLE IV CAPITAL CONTRIBUTIONS, UNITS, CAPITAL ACCOUNTS AND ADVANCES**
 
-Section 4.1  Capital Contributions.
+<a name="section-4-1"></a>Section 4.1  Capital Contributions.
 
 ​(i) Each Unit Holder has contributed or is deemed to have contributed
 to the capital of the Company such amount as shall be reflected from
@@ -782,7 +782,7 @@ contribution to the Company.  However, a Unit Holder may make additional
 capital contributions to the Company with the written consent of all of
 the Members.
 
-Section 4.2  Units.
+<a name="section-4-2"></a>Section 4.2  Units.
 
 A Unit Holder's economic interest in the Company shall be represented by
 the "Unit" or "Units" held by such Unit Holder.  Each Unit Holder's
@@ -818,7 +818,7 @@ Company Value at Issuance and the date of issuance / series designation
 of the Class B Units issued to any Member shall be as set forth on the
 attached **Schedule A**.
 
-Section 4.3  Status of Capital Contributions.
+<a name="section-4-3"></a>Section 4.3  Status of Capital Contributions.
 
 ​(i) Except as otherwise provided in this Agreement, the amount of a
 Unit Holder's Capital Contributions may be returned to it, in whole or
@@ -849,7 +849,7 @@ capital contributions to the Company.  No Unit Holder shall have any
 personal liability for the repayment of any Capital Contribution of any
 other Member or Assignee.
 
-Section 4.4  Capital Accounts.
+<a name="section-4-4"></a>Section 4.4  Capital Accounts.
 
 ​(i) An individual Capital Account shall be established and maintained
 for each Unit Holder.  The original Capital Account established for any
@@ -890,7 +890,7 @@ Subsection (ii), there shall be taken into account § 752(c) of the Code
 and any other applicable provisions of the Code and the Treasury
 Regulations.
 
-Section 4.5  Advances. If
+<a name="section-4-5"></a>Section 4.5  Advances. If
 any Unit Holder shall advance any funds to the Company in excess of its
 Capital Contributions, the amount of such advance shall neither increase
 its Capital Account nor entitle it to any increase in its share of the
@@ -909,9 +909,9 @@ making such loan, any direct or indirect interest in the profits,
 capital or property of the Company, other than as a creditor.
 
   
-**ARTICLE V MANAGERS**
+<a name="article-5"></a>**ARTICLE V MANAGERS**
 
-Section 5.1  Designation of Manager.  The management of the Company's business shall
+<a name="section-5-1"></a>Section 5.1  Designation of Manager.  The management of the Company's business shall
 be vested in one or more Managers designated by the Members.  At any
 time there is more than one Manager, any determination, decision or
 action required or permitted to be made hereunder by the Manager
@@ -928,7 +928,7 @@ Managers, and [INSERT MANAGER NAME] and [INSERT MANAGER NAME] hereby
 accept and agree to be bound by the terms and conditions of this
 Agreement.
 
-Section 5.2  Manager as Agent; General Powers.  The Manager, subject to the limitations of
+<a name="section-5-2"></a>Section 5.2  Manager as Agent; General Powers.  The Manager, subject to the limitations of
 its powers set forth in this Agreement, is an agent of the Company for
 the purpose of the Company's business and shall have all rights and
 powers required or appropriate to the management of the Company's
@@ -956,7 +956,7 @@ their compensation or remuneration.  For all purposes under this Section
 5.2, related transactions shall be combined to determine if any \$10,000
 threshold has been met.
 
-Section 5.3  Limitations on Powers of Manager.  Notwithstanding
+<a name="section-5-3"></a>Section 5.3  Limitations on Powers of Manager.  Notwithstanding
 anything contained in this Agreement to the contrary, a Unanimous Vote
 of the Members shall be required for any of the following actions to be
 taken by the Company: (i) any purchase, receipt, lease, exchange or
@@ -986,7 +986,7 @@ commission of any act which would make it impossible for the Company to
 carry on its ordinary business and affairs; or (xvii) any act that would
 contravene any provision of the Articles or this Agreement or the Act.
 
-Section 5.4  Reimbursement of Manager Expenses.  The Company shall
+<a name="section-5-4"></a>Section 5.4  Reimbursement of Manager Expenses.  The Company shall
 reimburse each Manager for all ordinary and necessary out-of-pocket
 expenses incurred by the Manager on behalf of the Company.  Such
 reimbursement shall be treated as an expense of the Company that shall
@@ -994,7 +994,7 @@ be deducted in computing the Net Cash Flow and shall not be deemed to
 constitute a distributive share of Profits or a distribution or return
 of capital to the Manager.
 
-Section 5.5  Removal of Manager.
+<a name="section-5-5"></a>Section 5.5  Removal of Manager.
 
 ​(i) A Manager may be removed with or without cause by a Super Majority
 Vote.
@@ -1007,11 +1007,11 @@ Losses and Net Cash Flow in the same ratios, as provided in Articles VII
 and VIII, as were applicable to such Member before its removal as
 Manager.
 
-Section 5.6  Resignation of Manager.  A Manager may resign from his position as a
+<a name="section-5-6"></a>Section 5.6  Resignation of Manager.  A Manager may resign from his position as a
 Manager at any time upon not less than 30 days' prior written notice to
 all of the Members.
 
-Section 5.7  Officers.  The
+<a name="section-5-7"></a>Section 5.7  Officers.  The
 Company may have such officers (including a President, who shall have
 the same authority to act for the Company as a chief executive officer
 of a Illinois corporation would have to act for a Illinois corporation,

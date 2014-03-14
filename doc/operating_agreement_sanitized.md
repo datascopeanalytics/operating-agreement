@@ -105,96 +105,96 @@ TABLE OF CONTENTS
 
 [Article IX. Accounting and Records](#article-9)
 
-Section 9.1  Financial and Tax Reporting
+[Section 9.1  Financial and Tax Reporting](#section-9-1)
 
-Section 9.2  Supervision; Inspection of Books
+[Section 9.2  Supervision; Inspection of Books](#section-9-2)
 18
 
-Section 9.3  Reliance on Records and Books of Account
+[Section 9.3  Reliance on Records and Books of Account](#section-9-3)
 
-Section 9.4  Annual Reports
+[Section 9.4  Annual Reports](#section-9-4)
 
-Section 9.5  Tax Returns
+[Section 9.5  Tax Returns](#section-9-5)
 
-Article X.  Tax Matters
+[Article X.  Tax Matters](#article-10)
 
-Section 10.1  Tax Matters Member
+[Section 10.1  Tax Matters Member](#section-10-1)
 
-Section 10.2  Right to Make Tax Election
+[Section 10.2  Right to Make Tax Election](#section-10-2)
 
-Article XI.  Liability, Exculpation and Indemnification
+[Article XI.  Liability, Exculpation and Indemnification](#article-11)
 
-Section 11.1  Liability
+[Section 11.1  Liability](#section-11-1)
 
-Section 11.2  Exculpation
+[Section 11.2  Exculpation](#section-11-2)
 
-Section 11.3  Indemnification
+[Section 11.3  Indemnification](#section-11-3)
 
-Section 11.4  Expenses
+[Section 11.4  Expenses](#section-11-4)
 
-Article XII.  Non-Competition; Confidentiality
+[Article XII.  Non-Competition; Confidentiality](#article-12)
 
-Section 12.1  Outside Businesses
+[Section 12.1  Outside Businesses](#section-12-1)
 
-Section 12.2  Non-Competition
+[Section 12.2  Non-Competition](#section-12-2)
 
-Section 12.3  Confidentiality
+[Section 12.3  Confidentiality](#section-12-3)
 
-Section 12.4  Remedies for Breach
+[Section 12.4  Remedies for Breach](#section-12-4)
 
-Article XIII.  Admission of New Members; Offering of Additional Units
+[Article XIII.  Admission of New Members; Offering of Additional Units](#article-13)
 
-Section 13.1  Admission of New Members
+[Section 13.1  Admission of New Members](#section-13-1)
 
-Section 13.2  Issuance of Class B Units to Existing Members
+[Section 13.2  Issuance of Class B Units to Existing Members](#section-13-2)
 
-Section 13.3  Offers of Additional Units
+[Section 13.3  Offers of Additional Units](#section-13-3)
 
-Section 13.4  Allocations
+[Section 13.4  Allocations](#section-13-4)
 
-Article XIV.  Assignability and Substitute Members
+[Article XIV.  Assignability and Substitute Members](#article-14)
 
-Section 14.1  Assignability of Units
+[Section 14.1  Assignability of Units](#section-14-1)
 
-Section 14.2  Recognition of Assignment by Company
+[Section 14.2  Recognition of Assignment by Company](#section-14-2)
 
-Section 14.3  Indemnification
+[Section 14.3  Indemnification](#section-14-3)
 
-Section 14.4  Effective Date of Assignment
+[Section 14.4  Effective Date of Assignment](#section-14-4)
 
-Article XV.  Dissolution, Liquidation and Termination
+[Article XV.  Dissolution, Liquidation and Termination](#article-15)
 
-Section 15.1  No Dissolution
+[Section 15.1  No Dissolution](#section-15-1)
 
-Section 15.2  Events Causing Dissolution
+[Section 15.2  Events Causing Dissolution](#section-15-2)
 
-Section 15.3  Notice of Dissolution
+[Section 15.3  Notice of Dissolution](#section-15-3)
 
-Section 15.4  Liquidation
+[Section 15.4  Liquidation](#section-15-4)
 
-Section 15.5  Termination
+[Section 15.5  Termination](#section-15-5)
 
-Section 15.6  Claims of Members
+[Section 15.6  Claims of Members](#section-15-6)
 
-Article XVI.  Arbitration
+[Article XVI.  Arbitration](#article-16)
 
-Article XVII.  Miscellaneous
+[Article XVII.  Miscellaneous](#article-17)
 
-Section 17.1  Notices
+[Section 17.1  Notices](#section-17-1)
 
-Section 17.2  Failure to Pursue Remedies
+[Section 17.2  Failure to Pursue Remedies](#section-17-2)
 
-Section 17.3  Cumulative Remedies
+[Section 17.3  Cumulative Remedies](#section-17-3)
 
-Section 17.4  Binding Effect
+[Section 17.4  Binding Effect](#section-17-4)
 
-Section 17.5  Severability
+[Section 17.5  Severability](#section-17-5)
 
-Section 17.6  Counterparts
+[Section 17.6  Counterparts](#section-17-6)
 
-Section 17.7  Integration
+[Section 17.7  Integration](#section-17-7)
 
-Section 17.8  Governing Law
+[Section 17.8  Governing Law](#section-17-8)
 
   
 
@@ -1168,12 +1168,12 @@ determined by the Manager.
 
 <a name="article-9"></a>**ARTICLE IX ACCOUNTING AND RECORDS**
 
-Section 9.1  Financial and Tax Reporting. The Company shall prepare its
+<a name="section-9-1"></a>Section 9.1  Financial and Tax Reporting. The Company shall prepare its
 financial statements and its income tax information returns using such
 methods of accounting and tax year as the Manager deems necessary or
 appropriate under the Code and Treasury Regulations.
 
-Section 9.2  Supervision; Inspection of Books. Proper and
+<a name="section-9-2"></a>Section 9.2  Supervision; Inspection of Books. Proper and
 complete books of account and records of the business of the Company
 shall be kept under the supervision of the Manager at the Company's
 principal office and at such other place as designated by the Manager. 
@@ -1185,7 +1185,7 @@ for any purpose reasonably related to the Member's interest in the
 Company.  Any information so obtained or copied shall be kept and
 maintained in strictest confidence except as required by law.
 
-Section 9.3  Reliance on Records and Books of Account. Any Member
+<a name="section-9-3"></a>Section 9.3  Reliance on Records and Books of Account. Any Member
 shall be fully protected in relying in good faith upon the records and
 books of account of the Company and upon such information, opinions,
 reports or statements presented to the Company by its Manager, any of
@@ -1198,12 +1198,12 @@ of the assets, liabilities, profits or losses of the Company or any
 other facts pertinent to the existence and amount of assets from which
 distributions to members might properly be paid.
 
-Section 9.4  Annual Reports. The annual financial statements of the Company shall be
+<a name="section-9-4"></a>Section 9.4  Annual Reports. The annual financial statements of the Company shall be
 reported on by the Company as of the end of each Fiscal Year.  A copy of
 the annual report shall be transmitted to the Members as soon as
 practicable after the end of each Fiscal Year.
 
-Section 9.5  Tax Returns. The Manager shall, as soon as practicable after the end of each
+<a name="section-9-5"></a>Section 9.5  Tax Returns. The Manager shall, as soon as practicable after the end of each
 Fiscal Year and on or prior to the applicable due date (including any
 applicable extensions), file a federal income tax information return and
 transmit to each Member a schedule showing such Member's share of each
@@ -1213,9 +1213,9 @@ such Members timely to file their federal income tax returns.  The
 Manager similarly shall file, and provide information to the Members
 regarding, all appropriate state and local income tax returns.
 
-**ARTICLE X TAX MATTERS**
+<a name="article-10"></a>**ARTICLE X TAX MATTERS**
 
-Section 10.1  Tax Matters Member.
+<a name="section-10-1"></a>Section 10.1  Tax Matters Member.
 
 ​(i) [INSERT A LUCKY MEMBER'S NAME NERE] is hereby designated as the
 initial Tax Matters Member, who shall be the Company's "Tax Matters
@@ -1235,14 +1235,14 @@ such notice to each Unit Holder.
 a new Tax Matters Member; provided, however, that only a Member may be
 designated as the Tax Matters Member of the Company.
 
-Section 10.2  Right to Make Tax Election.  The Tax Matters Member may, in its
+<a name="section-10-2"></a>Section 10.2  Right to Make Tax Election.  The Tax Matters Member may, in its
 discretion, make or revoke, on behalf of the Company, any tax election
 under the Code or the Treasury Regulations, except an election to be
 treated as a corporation, or under state, local or foreign law.
 
-**ARTICLE XI LIABILITY, EXCULPATION AND INDEMNIFICATION**
+<a name="article-11"></a>**ARTICLE XI LIABILITY, EXCULPATION AND INDEMNIFICATION**
 
-Section 11.1  Liability.
+<a name="section-11-1"></a>Section 11.1  Liability.
 
 ​(i) Except as otherwise provided by the Act, the debts, obligations and
 liabilities of the Company, whether arising in contract, tort or
@@ -1258,7 +1258,7 @@ profits of the Company, (c) its obligation to make other payments
 expressly provided for in this Agreement, and (d) the amount of any
 distributions wrongfully distributed to it.
 
-Section 11.2  Exculpation.
+<a name="section-11-2"></a>Section 11.2  Exculpation.
 
 ​(i) No Covered Person shall be liable to the Company or any other
 Covered Person for any loss, damage or claim incurred by reason of any
@@ -1279,7 +1279,7 @@ of the assets, liabilities, Profits, Losses or Net Cash Flow or any
 other facts pertinent to the existence and amount of assets from which
 distributions to Members might properly be paid.
 
-Section 11.3  Indemnification.  To the fullest extent permitted by applicable law, a Covered
+<a name="section-11-3"></a>Section 11.3  Indemnification.  To the fullest extent permitted by applicable law, a Covered
 Person shall be entitled to indemnification from the Company for any
 loss, damage or claim, including any judgment, award, settlement,
 reasonable attorney's fees and other reasonable costs or expenses,
@@ -1300,7 +1300,7 @@ provided further, that any indemnity under this Section 11.3 shall be
 provided out of and to the extent of Company assets only, and no Covered
 Person shall have any personal liability on account thereof.
 
-Section 11.4  Expenses.  To
+<a name="section-11-4"></a>Section 11.4  Expenses.  To
 the fullest extent permitted by applicable law, expenses (including
 legal fees) incurred by a Covered Person in defending any claim, demand,
 action, suit or proceeding shall, from time to time, be advanced by the
@@ -1310,9 +1310,9 @@ on behalf of the Covered Person to repay such amount if it shall be
 determined that the Covered Person is not entitled to be indemnified as
 authorized in Section 11.3.
 
-**ARTICLE XII NON-COMPETITION; CONFIDENTIALITY**
+<a name="article-12"></a>**ARTICLE XII NON-COMPETITION; CONFIDENTIALITY**
 
-Section 12.1  Outside Businesses. Subject to Section 12.2, any Member, Manager or
+<a name="section-12-1"></a>Section 12.1  Outside Businesses. Subject to Section 12.2, any Member, Manager or
 Affiliate thereof may engage in or possess an interest in other business
 ventures of any nature or description, independently or with others, and
 the Company, the Members and the Manager shall have no rights by virtue
@@ -1320,7 +1320,7 @@ of this Agreement in and to such independent ventures or the income or
 profits derived therefrom, and the pursuit of any such venture shall not
 be deemed wrongful or improper.  
 
-Section 12.2  Non-Competition. Each Member agrees that during the period that such Member is
+<a name="section-12-2"></a>Section 12.2  Non-Competition. Each Member agrees that during the period that such Member is
 a Member of the Company, plus two (2) years after the date that such
 Member is no longer a Member of the Company, neither it nor any of its
 Affiliates shall, without the prior written consent of the Members,
@@ -1350,7 +1350,7 @@ Each Member agrees that the covenants of this Section 12.2 are
 reasonable in scope and essential to the preservation of the Company's
 business.
 
-Section 12.3 Confidentiality.
+<a name="section-12-3"></a>Section 12.3 Confidentiality.
 
 ​(i) Each Member acknowledges that it has and will have access to
 confidential and proprietary information and trade secrets of the
@@ -1380,7 +1380,7 @@ Member, or (b) information which can be demonstrated by the disclosing
 Member to have been in its possession prior to the disclosure or
 transmittal to that Member by the Company.
 
-Section 12.4  Acknowledgement; Remedies for Breach. Each Member acknowledges and agrees
+<a name="section-12-4"></a>Section 12.4  Acknowledgement; Remedies for Breach. Each Member acknowledges and agrees
 that the covenants in Sections 12.2 and 12.3 are (i) reasonable in scope
 and essential to the preservation of the Company's business and (ii)
 ***in addition to***, and not in lieu of, any non-solicitation,
@@ -1396,9 +1396,9 @@ Company shall have the right to offset its damages from such breach
 against any amount owed for distributions or otherwise to the breaching
 Member.
 
-**ARTICLE XIII ADMISSION OF NEW MEMBERS; OFFERING OF ADDITIONAL UNITS**
+<a name="article-13"></a>**ARTICLE XIII ADMISSION OF NEW MEMBERS; OFFERING OF ADDITIONAL UNITS**
 
-Section 13.1  Admission of New Members.  During the month of December of each
+<a name="section-13-1"></a>Section 13.1  Admission of New Members.  During the month of December of each
 Fiscal Year or at such other time as shall be agreed by Unanimous Vote
 of the Members, the Members shall determine by Unanimous Vote whether to
 offer, and the terms of such offer, any Person the ability to become a
@@ -1412,7 +1412,7 @@ admitted as a Member of the Company at the time such Person (i) executes
 this Agreement or a counterpart of this Agreement and (ii) is named as a
 Member on **Schedule A** to this Agreement.
 
-Section 13.2  Issuance of Class B Units to Existing Members. 
+<a name="section-13-2"></a>Section 13.2  Issuance of Class B Units to Existing Members. 
 During the month of December of each Fiscal Year or at such other time
 as shall be agreed by Unanimous Vote of the Members, the Members shall
 determine by Unanimous Vote whether to issue Class B Units to any
@@ -1425,7 +1425,7 @@ Units and cause the Company to issue such Class B Units to the
 applicable Members effective as of January 1 of the following Fiscal
 Year.
 
-Section 13.3 Offers of Additional Units.  By Unanimous Vote of the Members, the
+<a name="section-13-3"></a>Section 13.3 Offers of Additional Units.  By Unanimous Vote of the Members, the
 Company is authorized to raise additional capital by offering and
 selling, or causing to be offered and sold, additional Units in the
 Company ("Additional Units") to any Person in such amounts and on such
@@ -1436,7 +1436,7 @@ collectively, the "Additional Members") at the time such Person (i)
 executes this Agreement or a counterpart of this Agreement and (ii) is
 named as a Member on **Schedule A** to this Agreement.
 
-Section 13.4  Allocations. Additional Units shall not be entitled to any retroactive allocation
+<a name="section-13-4"></a>Section 13.4  Allocations. Additional Units shall not be entitled to any retroactive allocation
 of the Company's income, gains, losses, deductions, credits or other
 items; provided that, subject to the restrictions of § 706(d) of the
 Code, Additional Units shall be entitled to their respective share of
@@ -1452,9 +1452,9 @@ allocations of the Company's income, gains, losses, deductions, credits
 and items for that portion of the Company's Fiscal Year after the
 effective date of the issuance of the Additional Units.
 
-**ARTICLE XIV ASSIGNABILITY AND SUBSTITUTE MEMBERS**
+<a name="article-14"></a>**ARTICLE XIV ASSIGNABILITY AND SUBSTITUTE MEMBERS**
 
-Section 14.1  Assignability of Units.  Except as otherwise expressly provided under
+<a name="section-14-1"></a>Section 14.1  Assignability of Units.  Except as otherwise expressly provided under
 Section 3.7 (Termination of Membership), no Member or other Unit Holder
 may assign or otherwise Transfer all or any part of its Units or other
 interests in the Company without the prior written consent of each other
@@ -1482,7 +1482,7 @@ admitted to the Company effective immediately prior to the effective
 date of the assignment, and, immediately following such admission, the
 assigning Member shall cease to be a member of the Company.  
 
-Section 14.2  Recognition of Assignment by Company.  No assignment or
+<a name="section-14-2"></a>Section 14.2  Recognition of Assignment by Company.  No assignment or
 other Transfer, or any part thereof, that is in violation of this
 Article XIV shall be valid or effective, and neither the Company nor the
 Members shall recognize the same for the purpose of making distributions
@@ -1492,7 +1492,7 @@ Members shall incur any liability as a result of refusing to make any
 such distributions to the assignee of any such invalid assignment or
 other Transfer.
 
-Section 14.3  Indemnification.  In the case of any Transfer or attempted Transfer of an
+<a name="section-14-3"></a>Section 14.3  Indemnification.  In the case of any Transfer or attempted Transfer of an
 interest in the Company that has not received the consents required by
 Section 14.1, the parties engaging or attempting to engage in such
 Transfer shall be liable to indemnify and hold harmless the Company and
@@ -1502,7 +1502,7 @@ incremental tax liability and lawyers' fees and expenses) as a result of
 such Transfer or attempted Transfer and efforts to enforce the indemnity
 granted hereby.
 
-Section 14.4  Effective Date of Assignment. Any valid assignment or other
+<a name="section-14-4"></a>Section 14.4  Effective Date of Assignment. Any valid assignment or other
 Transfer of a Member's interest in the Company, or part thereof,
 pursuant to the provisions of Section 14.1 shall be effective as of the
 close of business on the last day of the calendar month in which the
@@ -1519,13 +1519,13 @@ accordance with any convention permitted under § 706(d) of the Code and
 selected by the Manager.
 
   
-**ARTICLE XV DISSOLUTION, LIQUIDATION AND TERMINATION**
+<a name="article-15"></a>**ARTICLE XV DISSOLUTION, LIQUIDATION AND TERMINATION**
 
-Section 15.1  No Dissolution.  The Company shall not be dissolved by the admission of New
+<a name="section-15-1"></a>Section 15.1  No Dissolution.  The Company shall not be dissolved by the admission of New
 Members, Additional Members or Substitute Members in accordance with the
 terms of this Agreement.
 
-Section 15.2  Events Causing Dissolution.  The Company shall be dissolved and
+<a name="section-15-2"></a>Section 15.2  Events Causing Dissolution.  The Company shall be dissolved and
 its affairs shall be wound up upon the occurrence of any of the
 following events:
 
@@ -1539,12 +1539,12 @@ completed the Members may unanimously waive the right to have the
 Company's business wound up and the Company terminated, in which case
 the Company shall resume carrying on its business.
 
-Section 15.3  Notice of Dissolution.  Upon the dissolution of the Company, the
+<a name="section-15-3"></a>Section 15.3  Notice of Dissolution.  Upon the dissolution of the Company, the
 Person or Persons approved by all the Members to carry out the winding
 up of the Company (the "Liquidating Trustee") shall promptly notify the
 Members of such dissolution.
 
-Section 15.4  Liquidation.  Upon dissolution of the Company the Liquidating Trustee shall
+<a name="section-15-4"></a>Section 15.4  Liquidation.  Upon dissolution of the Company the Liquidating Trustee shall
 immediately commence to wind up the Company's affairs; provided,
 however, that a reasonable time shall be allowed for the orderly
 liquidation of the assets of the Company and the satisfaction of
@@ -1595,14 +1595,14 @@ For purposes of illustration, Schedule C sets forth hypothetical
 liquidation scenarios detailing the distribution of proceeds in the
 order and priority required under this Section 15.4.
 
-Section 15.5  Termination.  The Company shall terminate when all of the assets of the Company,
+<a name="section-15-5"></a>Section 15.5  Termination.  The Company shall terminate when all of the assets of the Company,
 after payment of or due provision for all debts, liabilities and
 obligations of the Company, shall have been distributed to the Unit
 Holders in the manner provided for in this Article XV, and the Articles
 of Organization shall have been canceled in the manner required by the
 Act.
 
-Section 15.6  Claims of Members.  The Members and Assignees shall look solely to the
+<a name="section-15-6"></a>Section 15.6  Claims of Members.  The Members and Assignees shall look solely to the
 Company's assets for the return of their Capital Contributions, and if
 the assets of the Company remaining after payment of or due provision
 for all debts, liabilities and obligations of the Company are
@@ -1610,7 +1610,7 @@ insufficient to return such Capital Contributions, the Members and
 Assignees shall have no recourse against the Company or any other Member
 or the Manager.
 
-**ARTICLE XVI ARBITRATION**
+<a name="article-16"></a>**ARTICLE XVI ARBITRATION**
 
 To the fullest extent permitted by the Act and other applicable law, any
 controversy or claim arising out of or relating to this Agreement, or
@@ -1637,9 +1637,9 @@ expenses of the arbitration shall be borne equally by the parties to the
 arbitration, provided that each party shall pay for and bear the cost of
 its own experts, evidence and legal counsel.
 
-**ARTICLE XVII MISCELLANEOUS**
+<a name="article-17"></a>**ARTICLE XVII MISCELLANEOUS**
 
-Section 17.1  Notices.  All
+<a name="section-17-1"></a>Section 17.1  Notices.  All
 notices provided for in this Agreement shall be in writing, duly signed
 by the party giving such notice, and shall be delivered, telecopied or
 mailed by registered or certified mail, as follows:
@@ -1656,37 +1656,37 @@ Member may hereafter designate by written notice to the Company.
 
 All such notices shall be deemed to have been given when received.
 
-Section 17.2  Failure to Pursue Remedies.  The failure of any party to seek
+<a name="section-17-2"></a>Section 17.2  Failure to Pursue Remedies.  The failure of any party to seek
 redress for violation of, or to insist upon the strict performance of,
 any provision of this Agreement shall not prevent a subsequent act,
 which would have originally constituted a violation, from having the
 effect of an original violation.
 
-Section 17.3  Cumulative Remedies.  The rights and remedies provided by this
+<a name="section-17-3"></a>Section 17.3  Cumulative Remedies.  The rights and remedies provided by this
 Agreement are cumulative and the use of any one right or remedy by any
 party shall not preclude or waive its right to use any or all other
 remedies.  Said rights and remedies are given in addition to any other
 rights the parties may have by law, statute, ordinance or otherwise.
 
-Section 17.4  Binding Effect.  This Agreement shall be binding upon and inure to the benefit
+<a name="section-17-4"></a>Section 17.4  Binding Effect.  This Agreement shall be binding upon and inure to the benefit
 of all of the parties and, to the extent permitted by this Agreement,
 their successors, legal representatives and assigns.
 
-Section 17.5  Severability.  The invalidity or unenforceability of any particular provision of
+<a name="section-17-5"></a>Section 17.5  Severability.  The invalidity or unenforceability of any particular provision of
 this Agreement shall not affect the other provisions hereof, and this
 Agreement shall be construed in all respects as if such invalid or
 unenforceable provision were omitted.
 
-Section 17.6  Counterparts.  This Agreement may be executed in any number of counterparts with
+<a name="section-17-6"></a>Section 17.6  Counterparts.  This Agreement may be executed in any number of counterparts with
 the same effect as if all parties hereto had signed the same document. 
 All counterparts shall be construed together and shall constitute one
 instrument.
 
-Section 17.7  Integration.  This Agreement constitutes the entire agreement among the parties
+<a name="section-17-7"></a>Section 17.7  Integration.  This Agreement constitutes the entire agreement among the parties
 hereto pertaining to the subject matter hereof and supersedes all prior
 agreements and understandings pertaining thereto.
 
-Section 17.8  Governing Law.  This Agreement and the rights of the parties hereunder shall be
+<a name="section-17-8"></a>Section 17.8  Governing Law.  This Agreement and the rights of the parties hereunder shall be
 interpreted in accordance with the laws of the State of Illinois, and
 all rights and remedies shall be governed by such laws without regard to
 principles of conflict of laws.

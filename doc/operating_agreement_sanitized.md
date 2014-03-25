@@ -230,7 +230,7 @@ The Members hereby agree as follows:
 <a name="article-1"></a>**ARTICLE I CERTAIN DEFINED TERMS**
 
 <a name="section-1-1"></a>Section 1.1 Definitions. Unless the context otherwise requires, the
-terms defined in this Article I shall, for the purposes of this
+terms defined in this [Article I](#article-1) shall, for the purposes of this
 Agreement, have the meanings specified.
 
 "Act" means the Illinois Limited Liability Company Act, 805 ILCS
@@ -334,8 +334,7 @@ Company and ending on December 31, 2009, (ii) any subsequent 12-month
 period commencing on January 1 and ending on December 31, or (iii) any
 portion of the period described in Clause (ii) of this sentence for
 which the Company is required to allocate Profits, Losses and other
-items of Company income, gain, loss or deduction pursuant to Article
-VII.
+items of Company income, gain, loss or deduction pursuant to [Article VII](#article-7).
 
 "Gross Asset Value" means, with respect to any asset, such asset's
 adjusted basis for federal income tax purposes, except as follows:
@@ -1003,8 +1002,8 @@ Vote.
 may be specified by the Members voting in favor thereof.  Should a
 Manager that is removed also be a Member, such Member shall continue to
 participate in the Company as a Member and shall share in the Profits,
-Losses and Net Cash Flow in the same ratios, as provided in Articles VII
-and VIII, as were applicable to such Member before its removal as
+Losses and Net Cash Flow in the same ratios, as provided in [Articles VII](#article-7)
+and [VIII](#article-8), as were applicable to such Member before its removal as
 Manager.
 
 <a name="section-5-6"></a>Section 5.6  Resignation of Manager.  A Manager may resign from his position as a
@@ -1130,7 +1129,7 @@ of this Agreement.
 
 <a name="article-8"></a>**ARTICLE VIII DISTRIBUTIONS**
 
-<a name="section-8-1"></a>Section 8.1  Net Cash Flow. Except as otherwise provided in Article XV (relating to the
+<a name="section-8-1"></a>Section 8.1  Net Cash Flow. Except as otherwise provided in [Article XV](#article-15) (relating to the
 dissolution of the Company), any distribution of the Net Cash Flow
 during any Fiscal Year shall be made to the Unit Holders in proportion
 to the number of Units held by each Unit Holder.
@@ -1148,7 +1147,7 @@ distributive shares of the taxable income of the Company.
 ​(ii) All amounts withheld pursuant to the Code or any provision of any
 state or local tax law with respect to any payment, distribution or
 allocation to the Company or the Unit Holders shall be treated as
-amounts distributed to the Unit Holders pursuant to this Article VIII
+amounts distributed to the Unit Holders pursuant to this [Article VIII](#article-8)
 for all purposes of this Agreement.  The Manager is authorized to
 withhold from distributions, or with respect to allocations, to the Unit
 Holders and to pay over to any federal, state or local government any
@@ -1598,7 +1597,7 @@ order and priority required under this [Section 15.4](#section-15-4).
 <a name="section-15-5"></a>Section 15.5  Termination.  The Company shall terminate when all of the assets of the Company,
 after payment of or due provision for all debts, liabilities and
 obligations of the Company, shall have been distributed to the Unit
-Holders in the manner provided for in this Article XV, and the Articles
+Holders in the manner provided for in this [Article XV](#article-15), and the Articles
 of Organization shall have been canceled in the manner required by the
 Act.
 

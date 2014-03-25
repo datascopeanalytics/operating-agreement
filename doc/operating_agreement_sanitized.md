@@ -236,9 +236,9 @@ Agreement, have the meanings specified.
 "Act" means the Illinois Limited Liability Company Act, 805 ILCS
 180/1-1, et seq., as amended from time to time. 
 
-"Additional Member" has the meaning set forth in <a name="section-13-3"></a>Section 13.3.
+"Additional Member" has the meaning set forth in [Section 13.3.](#section-13-3) 
 
-"Additional Units" has the meaning set forth in <a name="section-13-3"></a>Section 13.3.
+"Additional Units" has the meaning set forth in [Section 13.3.](#section-13-3)
 
 "Affiliate" means with respect to a specified Person, any Person that
 directly or indirectly controls, is controlled by, or is under common

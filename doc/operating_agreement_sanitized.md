@@ -278,7 +278,7 @@ VALUATION WHEN THIS AGREEMENT TAKES AFFECT].
 
 "Class B Unit" means any Unit designated as a Class B Unit.  Class B
 Units shall be divided into separate series based on the date of
-issuance of such Class B Units.  Pursuant to [Section 4.2(ii)](#section-4-2), Class B
+issuance of such Class B Units.  Pursuant to [Section 4.2](#section-4-2)(ii), Class B
 Units shall be treated for tax purposes as profit interests and not as
 capital interests, as those terms are defined in Rev. Proc. 93-27,
 1993-2 C.B. 343.
@@ -294,7 +294,7 @@ containing such reference.
 
 "Company Value at Issuance" means, with respect to any series of Class B
 Units, the value designated by the Manager as the "Company Value at
-Issuance" for such series of Class B Unit pursuant to [Section 4.2(ii).](#section-4-2)
+Issuance" for such series of Class B Unit pursuant to [Section 4.2](#section-4-2)(ii).
 
 "Covered Person" means a Member, the Manager, any Affiliate of a Member
 or of the Manager, any officers, directors, shareholders, partners,
@@ -600,7 +600,7 @@ understandings set forth herein in order to determine the suitability of
 the Members to acquire the Units and, further, that it may assign or
 otherwise Transfer the Units with appropriate registration or the
 opinion of counsel satisfactory to the Company that an exemption from
-such requirements is available and in accordance with Section 14.1.
+such requirements is available and in accordance with [Section 14.1](#section-14-1).
 
 ​(vi) It is acquiring its Units solely for its own account for
 investment and not with a view to the resale, distribution, subdivision

@@ -255,21 +255,21 @@ Illinois pursuant to the Illinois Act.
 
 "Assignee" means any Person who is an assignee of a Member's interest in
 the Company, or part thereof, and who does not become a Member pursuant
-to Section 14.1.
+to [Section 14.1.](#section-14-1) 
 
 "Bankruptcy" shall have the meaning specified in § 1-5 of the Act.
 
 "Capital Account" means, with respect to any Unit Holder, the account
 maintained for such Unit Holder in accordance with the provisions of
-Section 4.4.
+[Section 4.4.](#section-4-4)
 
 "Capital Contribution" means, with respect to any Unit Holder, the
 aggregate amount of money and the initial Gross Asset Value of any
 property (other than money) contributed to the Company pursuant to
-Section 4.1 with respect to the Units held by such Unit Holder.  In the
+[Section 4.1](#section-4-1) with respect to the Units held by such Unit Holder.  In the
 case of a Unit Holder who acquires an interest in the Company by virtue
 of an assignment in accordance with the terms of this Agreement,
-"Capital Contribution" has the meaning set forth in Section 4.4(i).
+"Capital Contribution" has the meaning set forth in [Section 4.4(i).](#section-4-4)
 
 "Class A Unit" means any Unit designated as a Class A Unit.
 
@@ -278,7 +278,7 @@ VALUATION WHEN THIS AGREEMENT TAKES AFFECT].
 
 "Class B Unit" means any Unit designated as a Class B Unit.  Class B
 Units shall be divided into separate series based on the date of
-issuance of such Class B Units.  Pursuant to Section 4.2(ii), Class B
+issuance of such Class B Units.  Pursuant to [Section 4.2(ii)](#section-4-2), Class B
 Units shall be treated for tax purposes as profit interests and not as
 capital interests, as those terms are defined in Rev. Proc. 93-27,
 1993-2 C.B. 343.
@@ -294,7 +294,7 @@ containing such reference.
 
 "Company Value at Issuance" means, with respect to any series of Class B
 Units, the value designated by the Manager as the "Company Value at
-Issuance" for such series of Class B Unit pursuant to Section 4.2(ii).
+Issuance" for such series of Class B Unit pursuant to [Section 4.2(ii).](#section-4-2)
 
 "Covered Person" means a Member, the Manager, any Affiliate of a Member
 or of the Manager, any officers, directors, shareholders, partners,
@@ -373,7 +373,7 @@ Losses.
 by, Members holding a majority of the Units held by Members.
 
 "Manager" means, collectively, the Person(s) designated by the Members
-in Section 5.1 as the manager(s) of the Company within the meaning of
+in [Section 5.1](#section-5-1) as the manager(s) of the Company within the meaning of
 the Act and shall include a successor appointed pursuant to the
 provisions of this Agreement.
 
@@ -384,7 +384,7 @@ Agreement, and "Members" means two or more of such Persons when acting
 in their capacities as members of the Company.  For purposes of the Act,
 the Members shall constitute one class or group of members.
 
-"Membership Offer" has the meaning set forth in Section 13.1.
+"Membership Offer" has the meaning set forth in [Section 13.1.](#section-13-1)
 
 "Net Cash Flow" means, for each Fiscal Year or other period of the
 Company, the gross cash receipts of the Company from all sources, but
@@ -394,7 +394,7 @@ otherwise not unconditionally available to the Company, less all amounts
 paid by or for the account of the Company during the same Fiscal Year or
 other period (including, without limitation, payments of principal and
 interest on any Company indebtedness, expenses reimbursed to the Members
-under Section 3.4 and expenses reimbursed to the Manager under Section
+under [Section 3.4](#section-3-4) and expenses reimbursed to the Manager under Section
 5.4), and less any amounts determined by the Manager to be necessary to
 provide a reasonable reserve for working-capital needs or any other
 contingencies of the Company.  Net Cash Flow shall be determined in
@@ -405,12 +405,12 @@ depreciation, amortization, cost recovery deductions, depletion, similar
 allowances or other non-cash items, but shall be increased by any
 reduction of reserves previously established.
 
-"New Member" has the meaning set forth in Section 13.1.
+"New Member" has the meaning set forth in [Section 13.1.](#section-13-1)
 
-"Non-Participating Member" has the meaning set forth in Section
-3.8(i)(a).
+"Non-Participating Member" has the meaning set forth in [Section
+3.8](#section-3-8)(i)(a).
 
-"Notice Date" has the meaning set forth in Section 3.8(i).
+"Notice Date" has the meaning set forth in [Section 3.8](#section-3-8)(i).
 
 "Person" includes any individual, corporation, association, partnership
 (general or limited), joint venture, trust, estate, limited liability
@@ -452,16 +452,16 @@ other period, computed in accordance with the definition of
 "Depreciation" above.
 
 "Substitute Member" means a Person who is admitted to the Company as a
-Member pursuant to Section 14.1, and who is named as a Member on
+Member pursuant to [Section 14.1](#section-14-1), and who is named as a Member on
 **Schedule A** to this Agreement. 
 
 "Super Majority Vote" means the written approval of, or the affirmative
 vote by, Members holding at least seventy-five percent (75%) of the
 Units held by Members.
 
-"Terminated Member" has the meaning set forth in Section 3.8(i).
+"Terminated Member" has the meaning set forth in [Section 3.8](#section-3-8)(i).
 
-"Terminated Units" has the meaning set forth in Section 3.8(i)(a).
+"Terminated Units" has the meaning set forth in [Section 3.8](#section-3-8)(i)(a).
 
 "Transfer" means any sale, assignment, transfer, exchange, mortgage,
 pledge, grant, hypothecation or other disposition of any Units.
@@ -667,9 +667,9 @@ Transfer is reasonably foreseeable;
 ​(h) The termination of the Member's employment with the Company for any
 reason other than Cause;
 
-​(i) The withdrawal of the Member in compliance with Section 3.6; and
+​(i) The withdrawal of the Member in compliance with [Section 3.6](#section-3-6); and
 
-​(j) The expulsion of the Member in accordance with Section 3.7(ii).
+​(j) The expulsion of the Member in accordance with [Section 3.7](#section-3-7)(ii).
 
 ​(ii) A Member shall be expelled from the Company and its membership
 shall be terminated (a) upon the unanimous determination in writing by
@@ -688,7 +688,7 @@ breach from two (2) or more Members.
 
 <a name="section-3-8"></a>Section 3.8  Effects of Termination of Membership.
 
-​(i) If a Member's membership is terminated under Section 3.7(i) (the
+​(i) If a Member's membership is terminated under [Section 3.7](#section-3-7(i) (the
 "Terminated Member"), the Manager shall provide written notice to the
 other Members on a date (the "Notice Date") that is not later than
 thirty (30) days following the date that the Manager first learned of
@@ -713,33 +713,33 @@ specified by such Member in such notice) of the portion of the
 Terminated Units not purchased by the Non-Participating Member(s).  In
 the event that the Members other than the Terminated Member do not
 exercise the option to purchase all (but not less than all) of the
-Terminated Units in accordance with this Section 3.8(i)(a), then no
+Terminated Units in accordance with this [Section 3.8](#section-3-8)(i)(a), then no
 Member shall have the right to purchase any of the Terminated Units and
 the Company shall have the option to purchase all (but not less than
 all) of the Terminated Units at any time on or prior to the one (1) year
 anniversary of the Notice Date.  In the event that the Company does not
 exercise the option to purchase all (but not less than all) of the
-Terminated Units in accordance with this Section 3.8(i)(a), then no
+Terminated Units in accordance with this [Section 3.8](#section-3-8)(i)(a), then no
 Transfer of the Terminated Units shall occur and the Terminated Member
 shall remain a Unit Holder in the Company.
 
 ​(b) The purchase price of any Terminated Units to be purchased under
-Section 3.8(i)(a) shall be the amount the Terminated Member would be
+[Section 3.8](#section-3-8)(i)(a) shall be the amount the Terminated Member would be
 entitled to receive for such Terminated Units on a hypothetical
-liquidation of the Company under Section 15.4 if the net proceeds of
+liquidation of the Company under [Section 15.4](#section-15-4) if the net proceeds of
 liquidation available for distribution after taking into effect the
-distributions to creditors under Section 15.4(i) were equal to the fair
+distributions to creditors under [Section 15.4](#section-15-4)(i) were equal to the fair
 market value of the Company determined as of the Notice Date in
 accordance with the valuation methodology set forth on **Schedule B**;
-provided, that if a Member's membership is terminated under Section
-3.7(i)(j) on account of the expulsion of the Member in accordance with
-Section 3.7(ii), the purchase price of any Terminated Units otherwise
-determined in accordance with this Section 3.8(i)(b)****shall be reduced
+provided, that if a Member's membership is terminated under [Section 3.7](#section-3-7)
+(i)(j) on account of the expulsion of the Member in accordance with
+[Section 3.7](#section-3-7)(ii), the purchase price of any Terminated Units otherwise
+determined in accordance with this [Section 3.8](#section-3-8)(i)(b)****shall be reduced
 by twenty-five percent (25%).  
 
 ​(c) The Members or the Company, as applicable, shall purchase the
 Terminated Units within 90 days (or such longer period specified in
-Section 3.8(i)(a)) following the Notice Date at a closing to be held
+[Section 3.8](#section-3-8)(i)(a)) following the Notice Date at a closing to be held
 during normal business hours at the Company's principal business office,
 or at any other place to which the parties agree.  At the closing, (1)
 the Terminated Member or, where applicable, the executor, administrator,
@@ -750,7 +750,7 @@ Terminated Units to such Members or Company, (2) the purchasing Members
 or Company will pay to the Terminated Member or, where applicable, the
 executor, administrator, personal representative, or trustee of the
 Terminated Member's estate, the purchase price for the Terminated Units
-determined under Section 3.8(i)(b) in cash, and (3) the Company will
+determined under [Section 3.8](#section-3-8)(i)(b) in cash, and (3) the Company will
 change its books to indicate the change in ownership of the Terminated
 Units.  If the Terminated Member or, where applicable, the executor,
 administrator, personal representative, or trustee of the Terminated
@@ -764,8 +764,8 @@ its books to reflect that the Terminated Units have been transferred.
 No further action shall be needed by any party for the full and complete
 transfer of the Terminated Units under this Agreement. 
 
-​(ii) If a Member withdraws in violation of Section 3.6 or is expelled
-from the Company under Section 3.7(ii), the Company may recover damages
+​(ii) If a Member withdraws in violation of [Section 3.6](#section-3-6) or is expelled
+from the Company under [Section 3.7](#section-3-7)(ii), the Company may recover damages
 from the Member and may offset the Company's damages against any amount
 owed to the Member for distributions or otherwise.  
 
@@ -842,9 +842,9 @@ Company.
 
 ​(iii) Except as otherwise provided herein and by applicable state law,
 the Members shall be liable only to make their capital contributions
-pursuant to Section 4.1, and no Member or Assignee shall be required to
+pursuant to [Section 4.1](#section-4-1), and no Member or Assignee shall be required to
 lend any funds to the Company or, after a Member's Capital Contributions
-have been fully paid pursuant to Section 4.1, to make any additional
+have been fully paid pursuant to [Section 4.1](#section-4-1), to make any additional
 capital contributions to the Company.  No Unit Holder shall have any
 personal liability for the repayment of any Capital Contribution of any
 other Member or Assignee.
@@ -952,8 +952,8 @@ business and affairs of the Company and its property and on the lives
 and well being of its Member employees and agents; (vii) commence,
 prosecute or defend any proceeding in the Company's name; and (viii)
 hire employees and agents, define their respective duties, and establish
-their compensation or remuneration.  For all purposes under this Section
-5.2, related transactions shall be combined to determine if any \$10,000
+their compensation or remuneration.  For all purposes under this [Section 5.2](#section-5-2), 
+related transactions shall be combined to determine if any \$10,000
 threshold has been met.
 
 <a name="section-5-3"></a>Section 5.3  Limitations on Powers of Manager.  Notwithstanding
@@ -1064,11 +1064,11 @@ inconsistency.
 
 <a name="section-7-1"></a>Section 7.1  Profits and Losses.
 
-​(i) Subject to the allocation rules of Section 7.2, Profits for any
+​(i) Subject to the allocation rules of [Section 7.2](#section-7-2), Profits for any
 Fiscal Year shall be allocated among the Unit Holders in proportion to
 the number of Units held by each Unit Holder.
 
-​(ii) Subject to the allocation rules of Section 7.2, Losses for any
+​(ii) Subject to the allocation rules of [Section 7.2](#section-7-2), Losses for any
 Fiscal Year shall be allocated among the Unit Holders in proportion to
 the number of Units held by each Unit Holder.
 
@@ -1107,11 +1107,11 @@ any property contributed to the capital of the Company shall, solely for
 income tax purposes, be allocated among the Unit Holders so as to take
 account of any variation between the adjusted basis of such property to
 the Company for federal income tax purposes and its initial Gross Asset
-Value (computed in accordance with Section 1.1).
+Value (computed in accordance with [Section 1.1](#section-1-1)).
 
 ​(ii) In the event the Gross Asset Value of any Company asset is
 adjusted pursuant to Paragraph (ii) of the definition of "Gross Asset
-Value" contained in Section 1.1, subsequent allocations of income, gain,
+Value" contained in [Section 1.1](#section-1-1), subsequent allocations of income, gain,
 loss and deduction with respect to such asset shall take account of any
 variation between the adjusted basis of such asset for federal income
 tax purposes and its Gross Asset Value in the same manner as under
@@ -1122,7 +1122,7 @@ this Section 7.3, including the selection of any allocation method
 permitted under § 704(c) of the Code and the Treasury Regulations
 thereunder, shall be made by the Manager in any manner that reasonably
 reflects the purpose and intention of this Agreement.  Allocations
-pursuant to this Section 7.3 are solely for purposes of federal, state
+pursuant to this [Section 7.3](#section-7-3) are solely for purposes of federal, state
 and local taxes and shall not affect, or in any way be taken into
 account in computing, any Unit Holder's Capital Account or share of
 Profits, Losses, other items or distributions pursuant to any provision
@@ -1137,7 +1137,7 @@ to the number of Units held by each Unit Holder.
 
 <a name="section-8-2"></a>Section 8.2  Distribution Rules.
 
-​(i) All distributions pursuant to Section 8.1 shall be at such times
+​(i) All distributions pursuant to [Section 8.1](#section-8-1) shall be at such times
 and in such amounts as shall be determined by the Manager; provided,
 however, that the Manager shall use its best efforts to cause the
 Company to distribute to the Unit Holders an amount of Net Cash Flow as
@@ -1296,7 +1296,7 @@ the Company shall not be obligated to indemnify any such Covered Person
 (i) for proceedings, claims or actions initiated or brought voluntarily
 by such Covered Person and not by way of defense or (ii) for any amount
 paid in settlement without the Company's prior written consent; and
-provided further, that any indemnity under this Section 11.3 shall be
+provided further, that any indemnity under this [Section 11.3](#section-11-3) shall be
 provided out of and to the extent of Company assets only, and no Covered
 Person shall have any personal liability on account thereof.
 
@@ -1308,7 +1308,7 @@ Company prior to the final disposition of such claim, demand, action,
 suit or proceeding upon receipt by the Company of an undertaking by or
 on behalf of the Covered Person to repay such amount if it shall be
 determined that the Covered Person is not entitled to be indemnified as
-authorized in Section 11.3.
+authorized in [Section 11.3](#section-11-3).
 
 <a name="article-12"></a>**ARTICLE XII NON-COMPETITION; CONFIDENTIALITY**
 
@@ -1346,7 +1346,7 @@ activity and the Company shall have the right to offset the amount of
 any such profits against any amount owed to the Member for distributions
 or otherwise.
 
-Each Member agrees that the covenants of this Section 12.2 are
+Each Member agrees that the covenants of this [Section 12.2](#section-12-2) are
 reasonable in scope and essential to the preservation of the Company's
 business.
 
@@ -1381,7 +1381,7 @@ Member to have been in its possession prior to the disclosure or
 transmittal to that Member by the Company.
 
 <a name="section-12-4"></a>Section 12.4  Acknowledgement; Remedies for Breach. Each Member acknowledges and agrees
-that the covenants in Sections 12.2 and 12.3 are (i) reasonable in scope
+that the covenants in [Sections 12.2](#section-12-2) and [12.3](#section-12-3) are (i) reasonable in scope
 and essential to the preservation of the Company's business and (ii)
 ***in addition to***, and not in lieu of, any non-solicitation,
 confidentiality and/or non-competition obligations and other obligations
@@ -1389,7 +1389,7 @@ that such Member may have, or any rights or remedies the Company may
 have, whether by agreement, fiduciary obligation or otherwise.
 
 Each Member acknowledges and agrees that in the event of a breach by
-such Member of its covenants contained in Section 12.2 or 12.3, the
+such Member of its covenants contained in [Section 12.2](#section-12-2) or [12.3](#section-12-3), the
 Company shall be entitled to an injunction restraining such breach in
 addition to any other remedies provided by law.  In addition, the
 Company shall have the right to offset its damages from such breach
@@ -1455,7 +1455,7 @@ effective date of the issuance of the Additional Units.
 <a name="article-14"></a>**ARTICLE XIV ASSIGNABILITY AND SUBSTITUTE MEMBERS**
 
 <a name="section-14-1"></a>Section 14.1  Assignability of Units.  Except as otherwise expressly provided under
-Section 3.7 (Termination of Membership), no Member or other Unit Holder
+[Section 3.7](#section-3-7) (Termination of Membership), no Member or other Unit Holder
 may assign or otherwise Transfer all or any part of its Units or other
 interests in the Company without the prior written consent of each other
 Member, which consent may be given or withheld in the sole and absolute
@@ -1477,7 +1477,7 @@ having paid to the Company a fee sufficient to cover all reasonable
 expenses of the Company in connection with such assignee's admission as
 a Substitute Member.  If a Member assigns all of its interest in the
 Company and the assignee of such interest is entitled to become a
-Substitute Member pursuant to this Section 14.1, such assignee shall be
+Substitute Member pursuant to this [Section 14.1](#section-14-1), such assignee shall be
 admitted to the Company effective immediately prior to the effective
 date of the assignment, and, immediately following such admission, the
 assigning Member shall cease to be a member of the Company.  
@@ -1486,7 +1486,7 @@ assigning Member shall cease to be a member of the Company.
 other Transfer, or any part thereof, that is in violation of this
 Article XIV shall be valid or effective, and neither the Company nor the
 Members shall recognize the same for the purpose of making distributions
-of Net Cash Flow pursuant to Section 8.1 with respect to such Company
+of Net Cash Flow pursuant to [Section 8.1](#section-8-1) with respect to such Company
 interest or part thereof.  Neither the Company nor the nonassigning
 Members shall incur any liability as a result of refusing to make any
 such distributions to the assignee of any such invalid assignment or
@@ -1494,7 +1494,7 @@ other Transfer.
 
 <a name="section-14-3"></a>Section 14.3  Indemnification.  In the case of any Transfer or attempted Transfer of an
 interest in the Company that has not received the consents required by
-Section 14.1, the parties engaging or attempting to engage in such
+[Section 14.1](#section-14-1), the parties engaging or attempting to engage in such
 Transfer shall be liable to indemnify and hold harmless the Company and
 the other Members from all costs, liabilities and damages that any of
 such indemnified Persons may incur (including, without limitation,
@@ -1504,7 +1504,7 @@ granted hereby.
 
 <a name="section-14-4"></a>Section 14.4  Effective Date of Assignment. Any valid assignment or other
 Transfer of a Member's interest in the Company, or part thereof,
-pursuant to the provisions of Section 14.1 shall be effective as of the
+pursuant to the provisions of [Section 14.1](#section-14-1) shall be effective as of the
 close of business on the last day of the calendar month in which the
 other Members give their written consent to such assignment or other
 Transfer (or the last day of the calendar month in which such assignment
@@ -1581,11 +1581,11 @@ Class B Units issued by the Company and (2) the Company Value at
 Issuance associated with the series of Class B Units for which the
 distribution is then being made, or (b) if there is no series of Class B
 Units with a higher Company Value at Issuance, or if the net proceeds of
-liquidation available for distribution under this Section 15.4 after
-taking into effect the distributions to creditors under Section 15.4(i)
+liquidation available for distribution under this [Section 15.4](#section-15-4) after
+taking into effect the distributions to creditors under [Section 15.4](#section-15-4)(i)
 are less than the next highest Company Value at Issuance, the remaining
-proceeds of liquidation available for distribution under this Section
-15.4; and
+proceeds of liquidation available for distribution under this [Section 15.4](#section-15-4); 
+and
 
 Finally, proceeds shall be distributed to the Unit Holders in accordance
 with their positive Capital Account balances, after giving effect to all
@@ -1593,7 +1593,7 @@ contributions, distributions and allocations for all periods.
 
 For purposes of illustration, Schedule C sets forth hypothetical
 liquidation scenarios detailing the distribution of proceeds in the
-order and priority required under this Section 15.4.
+order and priority required under this [Section 15.4](#section-15-4).
 
 <a name="section-15-5"></a>Section 15.5  Termination.  The Company shall terminate when all of the assets of the Company,
 after payment of or due provision for all debts, liabilities and
